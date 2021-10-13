@@ -82,7 +82,8 @@ First of all credit goes to brianuuuSonic who first brought Arduino-based automa
 - Koi - Discord bot integration.
 - denvoros - Build scripts, Mac support, and AI R&D.
 - Ryder - Documentation and wiki management.
-- SakuraKim - development + R&D.
+- baboul - Development
+- SakuraKim - Development + R&D.
 - joyrida - Build scripts and Mac support.
 
 And countless users and testers in the Pokémon Automation Discord Server.
