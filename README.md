@@ -72,7 +72,7 @@ Once you are comfortable with the microcontroller programs, you can proceed to t
 
 ## Credits
 
-First of all credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
+A lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
 
 **Major Contributors:**
 
