@@ -1,3 +1,79 @@
 #  Pokemon Automation (Landing Page)
 
-Tired of shiny hunting? Automate it! We are what our name implies. We automate the Pokémon games.
+Welcome to Pokémon Automation's official GitHub group.
+
+## What is this?
+
+Pokémon Automation is a project that strives to automate the Pokémon games.
+
+### Why automate the game?
+
+Certain aspects of Pokémon are very boring and tedious (such as shiny hunting). So rather than spending hundreds of hours grinding with manual gameplay, you have a bot do it for you. Thus the fun changes to managing the bots that play the game for you.
+
+With automation, it becomes possible to play 24/7 and simultaneously on multiple devices without wasting too much of your own time. Thus with so much extra game time, it becomes possible to legitimately obtain extremely rare Pokémon that are normally only feasible via hacking.
+
+### How does this work?
+
+The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
+
+This approach is not new. Many other Switch automation projects did the same thing long before this project existed.
+
+<img src="images/basic-setup.jpg" height="600">
+
+### What do we do differently?
+
+
+
+
+
+## Repos
+
+**Main Repos:**
+
+- [About:](https://github.com/PokemonAutomation/About) (this page)
+- [Microcontroller:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
+- [Computer-Control:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
+
+**Other Repos:**
+
+- [AutoMaxLair:](https://github.com/PokemonAutomation/AutoMaxLair) Stand-alone prototype for Pokémon Sword/Shield Dynamax Adventures.
+
+
+## Credits
+
+First of all credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
+
+**Major Contributors:**
+
+- Mysticial - Project founder.
+- MrDonders - R&D and pioneer of serial hardware.
+- pifopi - Development + R&D
+- Koi - Discord bot integration.
+- denvoros - Build scripts, Mac support, and AI R&D.
+- Ryder - Documentation and wiki management.
+- SakuraKim - development + R&D.
+- joyrida - Build scripts and Mac support.
+
+And countless users and testers in the Pokémon Automation Discord Server.
+
+
+## Supporting Us
+
+As of this writing, we do not take donations of any kind for this project. The only support we request is by sharing our work with your friends if you have enjoyed using it.
+In the spirit of transparency, we kindly ask that you disclose the use of automation when sharing photos or videos of Pokémon obtained using these programs.
+This can be done simply by sharing a screenshot of the program with stats or with a text footer indicating it is done by automation.
+
+If such a disclosure is not permissible, we ask that you avoid any explicit or implicit claims that such Pokémon were caught manually.
+
+
+## License
+
+You are free to use our software personal use only.
+
+Do not try to profit off of these programs. It's just a game; keep the money out of it and have fun.
+
+For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
+
+This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
+
