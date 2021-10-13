@@ -1,4 +1,4 @@
-#  Pokemon Automation (Landing Page)
+#  Pokémon Automation (Landing Page)
 
 Welcome to Pokémon Automation's official GitHub group.
 
