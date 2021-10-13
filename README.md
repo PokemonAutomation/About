@@ -46,7 +46,7 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 <img src="images/MaxLair-0.png" width="800">
 
 
-## Get me Started!
+## Get Me Started!
 
 Interested?
 
