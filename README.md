@@ -6,6 +6,8 @@ Welcome to Pokémon Automation's official GitHub group.
 - [Microcontroller Repo:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
 - [Computer-Control Repo:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
 
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 ## What is this?
 
 Pokémon Automation is a project that strives to automate the Pokémon games.
