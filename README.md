@@ -44,6 +44,17 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 <img src="images/MaxLair-0.png" width="800">
 
 
+## Get me Started!
+
+Interested?
+
+**If you are new to automation**, start from with the [Microcontroller programs](https://github.com/PokemonAutomation/Microcontroller).
+
+**If you are coming from other projects such as AutoController or pokescripts.xyz**, we still recommend looking at the [Microcontroller programs](https://github.com/PokemonAutomation/Microcontroller) to familiarize yourself with our platform.
+
+Once you are comfortable with the microcontroller programs, you can proceed to the [Computer-Control programs](https://github.com/PokemonAutomation/ComputerControl) to unleash the full capability of our automation.
+
+
 ## Repos
 
 **Main Repos:**
