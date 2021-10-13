@@ -56,6 +56,10 @@ Interested?
 
 Once you are comfortable with the microcontroller programs, you can proceed to the [Computer-Control programs](https://github.com/PokemonAutomation/ComputerControl) to unleash the full capability of our automation.
 
+**Program Lists:**
+- [Microcontroller Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
+- [Computer Control Program List](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
+
 
 ## Repos
 
