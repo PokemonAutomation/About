@@ -2,6 +2,10 @@
 
 Welcome to Pokémon Automation's official GitHub group.
 
+**Shortcuts:**
+- [Microcontroller Repo:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
+- [Computer-Control Repo:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
+
 ## What is this?
 
 Pokémon Automation is a project that strives to automate the Pokémon games.
@@ -16,14 +20,28 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. Many other Switch automation projects did the same thing long before this project existed.
+This approach is not new. Other projects such as [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh) use the same approach.
 
-<img src="images/basic-setup.jpg" height="600">
+Our version of these "microcontroller-only" programs can be found in the [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller).
+
+<img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
+
 
 ### What do we do differently?
 
+While most automation is entirely Arduino or microcontroller based, we take it to a new level. We connect the microcontroller to a PC to utilize the full computing potential of a modern computer. This allows us to perform visual recognition of of the gameplay and make gameplay decisions the same way a human player would.
 
+This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield. And we look forward to Pokémon Brilliant Diamond and Shining Pearl!
 
+These "computer-controlled" programs can be found in our [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl).
+
+**Examples:**
+
+Automatic detection of shiny encounters using visual recognition of the shiny sparkle animation.
+<img src="images/ShinyHuntAutonomous-Overworld-1.png" width="800">
+
+Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
+<img src="images/MaxLair-0.png" width="800">
 
 
 ## Repos
