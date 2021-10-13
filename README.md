@@ -1,3 +1,3 @@
 #  Pokemon Automation (Landing Page)
 
-Tired of shiny hunting? Automate it! We are what out names implies. We automated the Pokémon games.
+Tired of shiny hunting? Automate it! We are what our name implies. We automate the Pokémon games.
