@@ -2,8 +2,9 @@ Struggling trying to decide where to start and what to buy? Use this page to aid
 
 # (1) What type of Switch do you have?
 
-| [Switch Lite](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#switch-lite) | [Switch](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#switch) |
+| [Switch Lite](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#switch-lite) | [Switch](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#switch) |
 | --- | --- |
+
 
 ## Switch Lite
 
