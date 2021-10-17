@@ -60,6 +60,7 @@ Once you are comfortable with the microcontroller programs, you can proceed to t
 - [Microcontroller Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
 - [Computer Control Program List](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
 
+**Still not sure where to start?**, take a look at our [Decision Flow Chart](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md).
 
 ## Repos
 
