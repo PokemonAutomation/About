@@ -2,6 +2,19 @@
 
 This page is provided as a courteous and may not cover all the questions you have about hosting. We suggest spending some time looking up videos on YouTube if you need a visual explanation in addition to this.
 
+**Related Programs:**
+- **DaySkippers:**
+   - [DaySkipperUS](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperUS.md)
+   - [DaySkipperEU](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperEU.md)
+   - [DaySkipperJPN](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md)
+   - [DaySkipperJPN-7.8k](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN-7.8k.md)
+- **Beam Finding:**
+   - [Beam Reset](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md)
+   - [Purple Beam Finder](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced:-PurpleBeamFinder)
+- **Hosting**
+   - [Den Roller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md)
+   - [AutoHost Rolling](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md)
+
 *** 
 ### Pre-requisites
 * **PATIENCE**
