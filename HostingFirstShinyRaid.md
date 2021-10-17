@@ -124,8 +124,8 @@ After verifying how far you are from your shiny frame, you double check the den 
 You've done everything to get to the shiny frame. Now is the big moment where you decide what to host (soft or hard lock) and how you host.
 
 1. Decide how you plan on hosting:
-   1. For hosting a hard-lock (only hosts 1 Pokémon): [Go here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-How-to-host-your-first-raid#hard-lock-hosting)
-   2. For hosting a soft-lock (hosts the *whole den): [Go here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-How-to-host-your-first-raid#soft-lock-hosting)
+   1. For hosting a hard-lock (only hosts 1 Pokémon): [Go here](https://github.com/PokemonAutomation/About/blob/master/HostingFirstShinyRaid.md#hard-lock-hosting)
+   2. For hosting a soft-lock (hosts the *whole den): [Go here](https://github.com/PokemonAutomation/About/blob/master/HostingFirstShinyRaid.md#soft-lock-hosting)
       * *Dependent on number of badges you have. 1-3 badges can only host 1-2 star shiny raids. Having all 8 badges allows you to hose 3-5 star shiny raids.
 
 ## Hard-lock Hosting
