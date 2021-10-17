@@ -14,7 +14,7 @@ Struggling trying to decide where to start and what to buy? Use this page to aid
    > 
    > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
 3. A Microcontroller
-   > [Help me decide](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#2-what-type-of-microcontroller-should-i-get)
+   > [Help me decide](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#2-what-type-of-microcontroller-should-i-get)
 
 
 
@@ -22,7 +22,7 @@ Struggling trying to decide where to start and what to buy? Use this page to aid
 
 1. Mini-USB male to USB-A male cable or adapter. ([example 0](https://www.amazon.com/Cmple-Pack-Male-5-Pin-Adapter/dp/B00A1PH0ZW), [example 1](https://www.amazon.com/gp/product/B00P0GI68M))
 2. A Microcontroller
-   > [Help me decide](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#2-what-type-of-microcontroller-should-i-get)
+   > [Help me decide](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#2-what-type-of-microcontroller-should-i-get)
 
 ***
 
@@ -30,7 +30,7 @@ Struggling trying to decide where to start and what to buy? Use this page to aid
 
 Select which column best exemplifies your experience.
 
-| [Teensy](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#teensy) | [ProMicro](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Decision-Flow-Chart#promicro) |
+| [Teensy](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#teensy) | [ProMicro](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#promicro) |
 | --- | --- |
 | For beginners | Experienced users |
 | I want to easily add programs| I want to automate multiple switches, cheaply |
@@ -46,7 +46,7 @@ Teensy has 2 flavors: 2.0 and 2.0++ (**Choose one**)
    2. [Teensy++ 2.0](https://www.pjrc.com/store/teensypp.html) 
       1. More powerful and expensive than the Teensy 2.0
 
-Here is the installation tutorial for the [Teensy](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Tutorial:-Windows_Teensy). You can review this after you've completed the end of this tutorial.
+Here is the installation tutorial for the [Teensy](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Windows-Teensy2.md). You can review this after you've completed the end of this tutorial.
 
 ## ProMicro
 
@@ -55,39 +55,39 @@ This board is significantly harder to use than the Teensy. But is cheap in bulk 
 
 Link to buying the [Pro Micro Board](https://www.amazon.com/gp/product/B08BJNV1J3)
 
-Here is the installation tutorial for the [ProMicro](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Tutorial:-Windows_ProMicro). You can review this after you've completed the end of this tutorial.
+Here is the installation tutorial for the [ProMicro](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Windows-ProMicro.md). You can review this after you've completed the end of this tutorial.
 
 ***
 
-# (3) Should I do the Basic or Advanced programs?
+# (3) Should I do the Microcontroller or Computer Controlled Programs?
 
 Select which column best exemplifies your experiences.
 
-| [Basic Programs](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Programs:-Basic-List) | [Advanced Programs](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Programs:-Advanced-List) |
+| [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) | [Computer Controlled Programs](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) |
 | --- | --- |
 | **For beginners** | **Experienced users** |
 | I am new to microcontrollers | I've used microcontrollers before |
 | I haven't used automation programs before | I have experience with automation |
 
-## Basic Programs
+## Microcontroller Programs
 
-Basic programs start things off simply. All that's required is the microcontroller and adapter. Here you can build your knowledge base of how to use the programs before jumping into the Advanced Programs.
+Microcontroller Programs start things off simply. All that's required is the microcontroller and adapter. Here you can build your knowledge base of how to use the programs before jumping into the Computer Controlled Programs.
 
-Review the list of the [Basic Programs](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Programs:-Basic-List) for an idea of what you can do.
+Review the list of the [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) for an idea of what you can do.
 
-### **No extra equipment is required! The basic hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic-Hardware)**
+### **No extra equipment is required! The Microcontroller hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic-Hardware) (FIX LINK)**
 
 <img src="https://github.com/PokemonAutomation/SwSh-Arduino/blob/master/Documentation/Tutorials/images/basic-setup.jpg" height="600">
 
-## Advanced Programs
+## Computer Controlled Programs
 
-Advanced programs take a decent amount of setup and require additional hardware. We recommend people utilize these programs after getting familiar with the Basic Programs. If you are wanting your computer to automatically recognize a shiny, instead of manually calibrating it, this is the setup for you.
+Computer Controlled Programs take a decent amount of setup and require additional hardware. We recommend people utilize these programs after getting familiar with the Microcontroller Programs. If you are wanting your computer to automatically recognize a shiny, instead of manually calibrating it, this is the setup for you.
 
-Here is a list of the [Advanced Programs](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Programs:-Advanced-List) for an idea of what you can do.
+Here is a list of the [Computer Controlled Programs](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) for an idea of what you can do.
 
 <img src="https://github.com/PokemonAutomation/SwSh-Arduino/blob/master/Documentation/Tutorials/images/serial-setup.jpg" height="600">
 
-**Buy the following additional components for Advanced Programs**
+**Buy the following additional components for Computer Controlled Programs**
 1. Serial Board (**Pick one**)
    1. UART Cable ([CP210x controller](https://www.adafruit.com/product/954))
       > ***Avoid the Prolific (PLxxxx) controllers. Many of them are knock-offs that do not work.***
@@ -108,4 +108,5 @@ Here is a list of the [Advanced Programs](https://github.com/PokemonAutomation/S
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-### **You've got all the parts! The advanced hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced-Hardware)**
+### **You've got all the parts! The advanced hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced-Hardware) (FIX LINK)**
+
