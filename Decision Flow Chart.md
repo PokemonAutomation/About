@@ -63,7 +63,7 @@ Here is the installation tutorial for the [ProMicro](https://github.com/PokemonA
 
 Select which column best exemplifies your experiences.
 
-| [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) | [Computer Controlled Programs](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) |
+| [Microcontroller Programs](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#microcontroller-programs) | [Computer Controlled Programs](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md#computer-controlled-programs) |
 | --- | --- |
 | **For beginners** | **Experienced users** |
 | I am new to microcontrollers | I've used microcontrollers before |
@@ -75,7 +75,7 @@ Microcontroller Programs start things off simply. All that's required is the mic
 
 Review the list of the [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) for an idea of what you can do.
 
-### **No extra equipment is required! The Microcontroller hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic-Hardware) (FIX LINK)**
+### **No extra equipment is required! The Microcontroller hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) **
 
 <img src="https://github.com/PokemonAutomation/SwSh-Arduino/blob/master/Documentation/Tutorials/images/basic-setup.jpg" height="600">
 
@@ -108,5 +108,5 @@ Here is a list of the [Computer Controlled Programs](https://github.com/PokemonA
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-### **You've got all the parts! The advanced hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced-Hardware) (FIX LINK)**
+### **You've got all the parts! The advanced hardware tutorial stops here. Continue [here](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/README.md) **
 
