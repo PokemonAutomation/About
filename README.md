@@ -20,7 +20,7 @@ The Nintendo Switch allows the use of 3rd party wired controllers. But instead o
 
 This approach is not new. Other projects such as brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) use the same approach.
 
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -31,7 +31,7 @@ While most automation is entirely Arduino or microcontroller based, we take it t
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield. And we look forward to Pokémon Brilliant Diamond and Shining Pearl!
 
-These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](https://github.com/Ensamma/About/blob/master/README.md#3-computer-control-repo).
+These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](README.md#3-computer-control-repo).
 
 **Examples:**
 
