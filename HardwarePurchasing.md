@@ -30,7 +30,7 @@ _Buy the necessary items from A & B._
 
 Select which column best exemplifies your experience and purchase that microcontroller.
 
-| [Teensy](https://www.pjrc.com/store/teensy.html) | [ProMicro](https://www.amazon.com/gp/product/B08BJNV1J3) |
+| [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [ProMicro](https://www.amazon.com/gp/product/B08BJNV1J3) |
 | --- | --- |
 | For beginners | Experienced users |
 | I want to easily add programs| I want to automate multiple switches, cheaply |
