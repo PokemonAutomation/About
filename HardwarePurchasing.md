@@ -2,9 +2,11 @@ This is the first step in the process towards automation!
 
 # (1) Select how far into automation you want to get
 
+**No matter the level of automation you need, start here!**
+
 Select your level of automation 
 
-| Microcontroller | Computer Controlled | Auto Max Lair |
+| [Microcontroller](HardwarePurchasing.md#2-microcontroller-hardware) | [Computer Controlled](HardwarePurchasing.md#2-microcontroller-hardware) | [Auto Max Lair](HardwarePurchasing.md#2-microcontroller-hardware) |
 | --- | --- | --- |
 | Basic Den hosting | All microcontroller programs plus... | Automated Dynamax Adventures!
 | Day Skipping | Automated purple beam finder | All Microcontroller programs |
@@ -15,17 +17,14 @@ Select your level of automation
 
 # (2) Microcontroller Hardware
 
+Buy the necessary items from A & B.
+
 ### A. Buy hardware under the column of what type of Switch you have.
 
 | Switch | Switch Lite |
 | --- | --- |
 | Mini-USB male to USB-A male cable or adapter. ([example 0](https://www.amazon.com/Cmple-Pack-Male-5-Pin-Adapter/dp/B00A1PH0ZW), [example 1](https://www.amazon.com/gp/product/B00P0GI68M)) | Mini-USB male to USB-A male cable or adapter. ([example](https://www.amazon.com/gp/product/B07QJTX59H/)) |
 |     | A USB hub or portable dock. ([example](https://www.amazon.com/gp/product/B07JK9DFKH)) |
-
-Switch Lite notes:
-   > The Switch Lite does not have a USB-A port. Therefore you need either an adapter or a hub to connect the Teensy. A charging hub or dock is required to simultaneously charge and use the Teensy.
-   > 
-   > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
 
 ### B. Buy *one* of the following Microcontrollers.
 
@@ -43,10 +42,19 @@ Select which column best exemplifies your experience and purchase that microcont
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
 
-**If you are only doing Microcontroller Automation proceed to the next step [here](dead)**
-If you are doing Computer Controlled or Auto Max Lair automation, proceed below.
+Switch Lite notes:
+   > The Switch Lite does not have a USB-A port. Therefore you need either an adapter or a hub to connect the Teensy. A charging hub or dock is required to simultaneously charge and use the Teensy.
+   > 
+   > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
+
+## **If you are only doing Microcontroller Automation proceed to the next step [here](dead)**
+If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
+
+---
 
 # (3) Additional Computer Controlled Hardware
+
+Buy the necessary items from A, B, C, & D.
 
 ### A. Serial UART board
 
@@ -54,9 +62,9 @@ Purchase *one* of the following serial boards
 
 | Adafruit UART  | CP210x Board | 
 | --- | --- |
-| [CP210x controller](https://www.adafruit.com/product/954) | [4 for $8](https://www.amazon.com/gp/product/B07T1XR9FT) |
-|   | [1 for $8](https://www.amazon.com/dp/B072K3Z3TL) |
+| [CP210x controller](https://www.adafruit.com/product/954) | [1 for $8](https://www.amazon.com/dp/B072K3Z3TL) |
 |   | [2 for $8](https://www.amazon.com/gp/product/B07D6LLX19/) |
+|   | [4 for $8](https://www.amazon.com/gp/product/B07T1XR9FT) |
 
 ### B. Serial Board Connections
 
@@ -79,4 +87,6 @@ Purchase HDMI cable(s) if you don't own any
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-**Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](dead)**
+## **Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](dead)**
+
+---
