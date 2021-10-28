@@ -18,9 +18,9 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. Other projects such as brianuuuSonic's AutoController(1) use the same approach.
+This approach is not new. Other projects such as brianuuuSonic's AutoController[(1)](https://github.com/Ensamma/About/blob/master/README.md#1-brianuuusonics-autocontroller) use the same approach.
 
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo(2).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo).
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -31,7 +31,7 @@ While most automation is entirely Arduino or microcontroller based, we take it t
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield. And we look forward to Pokémon Brilliant Diamond and Shining Pearl!
 
-These "computer-controlled" programs can be found in our Computer-Control Repo(3).
+These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](https://github.com/Ensamma/About/blob/master/README.md#3-computer-control-repo).
 
 **Examples:**
 
@@ -46,11 +46,11 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 Interested?
 
-**If you are new to automation**, start from with the Microcontroller programs(2).
+**If you are new to automation**, start from with the Microcontroller programs[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo).
 
-**If you are coming from other projects such as AutoController or pokescripts.xyz**, we still recommend looking at the Microcontroller programs(2) to familiarize yourself with our platform.
+**If you are coming from other projects such as AutoController or pokescripts.xyz**, we still recommend looking at the Microcontroller programs[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo) to familiarize yourself with our platform.
 
-Once you are comfortable with the microcontroller programs, you can proceed to the Computer-Control programs(3) to unleash the full capability of our automation.
+Once you are comfortable with the microcontroller programs, you can proceed to the Computer-Control programs[(3)](https://github.com/Ensamma/About/blob/master/README.md#3-computer-control-repo) to unleash the full capability of our automation.
 
 ## References
 ### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
