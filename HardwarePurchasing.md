@@ -47,7 +47,7 @@ Switch Lite notes:
    > 
    > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](dead)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](Microcontroller/blob/master/Wiki/Hardware/README.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
 
 ---
