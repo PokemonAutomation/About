@@ -52,10 +52,6 @@ Interested?
 
 Once you are comfortable with the microcontroller programs, you can proceed to the Computer-Control programs[(3)](https://github.com/Ensamma/About/blob/master/README.md#3-computer-control-repo) to unleash the full capability of our automation.
 
-## References
-### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
-### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
-### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
 
 **Program Lists:**
 - [Microcontroller Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
@@ -113,4 +109,8 @@ For all other uses, please reach out to the administrators of the Pokémon Autom
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
+## References
+### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
+### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
+### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
 
