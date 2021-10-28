@@ -46,30 +46,7 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 Interested?
 
-**If you are new to automation**, start from with the Microcontroller programs[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo).
-
-**If you are coming from other projects such as AutoController or pokescripts.xyz**, we still recommend looking at the Microcontroller programs[(2)](https://github.com/Ensamma/About/blob/master/README.md#2-microcontroller-repo) to familiarize yourself with our platform.
-
-Once you are comfortable with the microcontroller programs, you can proceed to the Computer-Control programs[(3)](https://github.com/Ensamma/About/blob/master/README.md#3-computer-control-repo) to unleash the full capability of our automation.
-
-
-**Program Lists:**
-- [Microcontroller Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
-- [Computer Control Program List](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
-
-**Still not sure where to start?**, take a look at our [Decision Flow Chart](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md).
-
-## Repos
-
-**Main Repos:**
-
-- [About:](https://github.com/PokemonAutomation/About) (this page)
-- [Microcontroller:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
-- [Computer-Control:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
-
-**Other Repos:**
-
-- [AutoMaxLair:](https://github.com/PokemonAutomation/AutoMaxLair) Stand-alone prototype for Pokémon Sword/Shield Dynamax Adventures.
+[Get started! This is your next step.](dead)
 
 ## Credits
 
