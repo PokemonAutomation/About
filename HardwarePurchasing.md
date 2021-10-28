@@ -17,7 +17,7 @@ Select your level of automation
 
 # (2) Microcontroller Hardware
 
-Buy the necessary items from A & B.
+_Buy the necessary items from A & B._
 
 ### A. Buy hardware under the column of what type of Switch you have.
 
@@ -54,7 +54,7 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 
 # (3) Additional Computer Controlled Hardware
 
-Buy the necessary items from A, B, C, & D.
+_Buy the necessary items from A, B, C, & D._
 
 ### A. Serial UART board
 
