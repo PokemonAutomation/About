@@ -46,7 +46,7 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 Interested?
 
-[Get started! This is your next step.](dead)
+[Get started! This is your next step.](.../About/blob/master/HardwarePurchasing.md)
 
 ## Credits
 
