@@ -46,7 +46,7 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 Interested?
 
-[Get started! This is your next step.](https://github.com/Ensamma/About/blob/master/HardwarePurchasing.md)
+[Get started! This is your next step.](HardwarePurchasing.md)
 
 ## Credits
 
