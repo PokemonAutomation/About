@@ -47,7 +47,7 @@ Switch Lite notes:
    > 
    > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](Microcontroller/blob/master/Wiki/Hardware/README.md)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
 
 ---
@@ -87,6 +87,6 @@ Purchase HDMI cable(s) if you don't own any
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-## **Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](dead)**
+## **Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 
 ---
