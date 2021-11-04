@@ -19,29 +19,19 @@ Select your level of automation
 
 # (2) Microcontroller Hardware
 
-_Buy the necessary items from A & B._
+_Buy the following items below._
 
-### A. Buy hardware under the column of what type of Switch you have.
+**A.** [Arduino Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) 
 
-| Switch | Switch Lite |
-| --- | --- |
-| Mini-USB male to USB-A male cable or adapter. ([example 0](https://www.amazon.com/Cmple-Pack-Male-5-Pin-Adapter/dp/B00A1PH0ZW), [example 1](https://www.amazon.com/gp/product/B00P0GI68M)) | Mini-USB male to USB-A male cable or adapter. ([example](https://www.amazon.com/gp/product/B07QJTX59H/)) |
-|     | A USB hub or portable dock. ([example](https://www.amazon.com/gp/product/B07JK9DFKH)) |
+**B.** If you have a Switch Lite; buy a USB hub or portable dock 
 
-### B. Buy the following Microcontroller
+([example](https://www.amazon.com/gp/product/B07JK9DFKH))
+> The above link is an example. Any USB hub (with a USB port) or portable dock should work.
 
-[Arduino Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) 
+**Verify you have the following**
 
-### C. Verify you have the following
-
-1. A Mini-USB male to USB-A male cable or adaptor (from step (2)A)
-2. An Arduino **Leonardo** (from step (2)2B)
-3. A USB hub or portable dock (if you have a Switch Lite!)
-
-Switch Lite notes:
-   > The Switch Lite does not have a USB-A port. Therefore you need either an adapter or a hub to connect the Teensy. A charging hub or dock is required to simultaneously charge and use the Teensy.
-   > 
-   > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
+1. An Arduino **Leonardo** (from step (2)A)
+2. A USB hub or portable dock (if you have a Switch Lite!)
 
 ## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
@@ -52,25 +42,15 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 
 _Buy the necessary items from A, B, C, & D._
 
-### A. Serial UART board
+**A.** [Adafruit UART](https://www.adafruit.com/product/954)
 
-Purchase the following serial board
+**B.** [Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47)
 
-[Adafruit UART](https://www.adafruit.com/product/954)
+**C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
 
-### B. Serial Board Connections
+> Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
 
-Purchase the following Board Connection
-
-[Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47)
-
-### C. Capture Card
-
-Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
-
-### D. HDMI Cables
-
-Purchase HDMI cable(s) if you don't own any
+**D.** HDMI Cables (if you don't own any)
 
 ***Important:** You will need a fairly powerful computer to handle serial programs with video feedback. For a single Switch with video feedback, we recommend a quad core computer no older than 2015. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer. The computer must also be running 64-bit Windows, though plan to extend support to other operating systems in the future.*
 
