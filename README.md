@@ -86,7 +86,7 @@ For all other uses, please reach out to the administrators of the Pokémon Autom
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
-## References
+# References
 ### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
 ### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
 ### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
