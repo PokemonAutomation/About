@@ -44,9 +44,15 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 ## Get Me Started!
 
-Interested?
+Interested? This is **STEP 1**
 
-[Get started! This is your next step.](HardwarePurchasing.md)
+Choose the link below that aligns with your experience with electronics.
+
+| [Beginner](dead) | [Experienced](dead) |
+| --- | --- |
+| I have *not* used a microcontroller before | I have used a microcontroller before |
+| Make it work, simply | Options are okay |
+| I'm new to GitHub | I've used GitHub a few times |
 
 ## Credits
 
