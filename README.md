@@ -48,7 +48,7 @@ Interested? This is **STEP 1**
 
 Choose the link below that aligns with your experience with electronics.
 
-| [Beginner](dead) | [Experienced](dead) |
+| [Beginner](https://github.com/Ensamma/About/blob/master/HardwareBeginner.md) | [Experienced](https://github.com/Ensamma/About/blob/master/HardwareExperienced.md) |
 | --- | --- |
 | I have *not* used a microcontroller before | I have used a microcontroller before |
 | Make it work, simply | Options are okay |
