@@ -40,7 +40,7 @@ If it doesn't come with the cable, you will need it separately. It is a Micro-US
 1. An Arduino **Leonardo** (from step (2)A)
 2. A USB hub or portable dock (if you have a Switch Lite!)
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/Windows-ArduinoLeonardo.md)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
 
 ---
