@@ -1,4 +1,4 @@
-# **STEP 2**
+# **PART 2**
 
 This is the second step in the process towards automation!
 
