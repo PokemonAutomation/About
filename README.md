@@ -44,7 +44,7 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 ## Get Me Started!
 
-Interested? This is **STEP 1**
+Interested? This is **PART 1**
 
 Choose the link below that aligns with your experience with electronics.
 
