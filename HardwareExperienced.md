@@ -2,8 +2,6 @@ This is the first step in the process towards automation!
 
 # (1) Select how far into automation you want to get
 
-**No matter the level of automation you need, start here!**
-
 Select your level of automation 
 
 | [Microcontroller](HardwarePurchasing.md#2-microcontroller-hardware) | [Computer Controlled](HardwarePurchasing.md#2-microcontroller-hardware) | [Auto Max Lair](HardwarePurchasing.md#2-microcontroller-hardware) |
@@ -16,6 +14,8 @@ Select your level of automation
 *The levels of automation build off each other, to do Auto Max Lair you have to proceed trhough Microcontroller and Computer Controlled tutorials. You have been warned.*
 
 # (2) Microcontroller Hardware
+
+**No matter the level of automation you need, start here!**
 
 _Buy the necessary items from A & B._
 
@@ -30,22 +30,17 @@ _Buy the necessary items from A & B._
 
 Select which column best exemplifies your experience and purchase that microcontroller.
 
-| [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [ProMicro](https://www.amazon.com/gp/product/B08BJNV1J3) |
-| --- | --- |
-| For beginners | Experienced users |
-| I want to easily add programs| I want to automate multiple switches, cheaply |
-| I'm not experienced with electronics | I know my way around electronics |
+| [Ardunio Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) | [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [ProMicro](https://www.amazon.com/gp/product/B08BJNV1J3) |
+| --- | --- | --- | 
+| For beginners | For beginners | Experienced users |
+| I am accustomed to Arduino | I want to easily add programs| I want to automate multiple switches, cheaply |
+| I'm not experienced with electronics | I'm not experienced with electronics | I know my way around electronics |
 
 ### C. Verify you have the following
 
 1. A Mini-USB male to USB-A male cable or adaptor (from step (2)A)
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
-
-Switch Lite notes:
-   > The Switch Lite does not have a USB-A port. Therefore you need either an adapter or a hub to connect the Teensy. A charging hub or dock is required to simultaneously charge and use the Teensy.
-   > 
-   > Portable docks will work for the Switch Lite, but it will not be able to output video over the HDMI.
 
 ## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
@@ -70,10 +65,10 @@ Purchase *one* of the following serial boards
 
 Purchase *one* of the following Board Connections
 
-| Mini-Grabbers to Male Jumer Wires | Soldless Hammer Headers | Hammer Headers | 
+| [Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Soldless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
 | --- | --- | --- |
 | Easiest option, but hard to find | Fairly easy to install. These must have a buldge on the short side. | Most difficult. Will require soldering. |
-| [grabbers](https://www.amazon.com/gp/product/B08M5GNY47) | [solderless](https://www.adafruit.com/product/3662) | [headers](https://www.adafruit.com/product/2822) |
+| No soldering. Best for beginners | Doesn't require soldering. | Requires soldering. Experienced only. |
 
 ### C. Capture Card
 
