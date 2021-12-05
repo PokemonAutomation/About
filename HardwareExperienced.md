@@ -4,12 +4,12 @@ This is the first step in the process towards automation!
 
 Select your level of automation 
 
-| [Microcontroller](HardwarePurchasing.md#2-microcontroller-hardware) | [Computer Controlled](HardwarePurchasing.md#2-microcontroller-hardware) | [Auto Max Lair](HardwarePurchasing.md#2-microcontroller-hardware) |
-| --- | --- | --- |
-| Basic Den hosting | All microcontroller programs plus... | Automated Dynamax Adventures!
-| Day Skipping | Automated purple beam finder | All Microcontroller programs |
-| Egg Hatchers | Den Hosting with stats!  | All Computer Controlled programs |
-| Unattended Shiny Hunts | Autonomous Shiny Hunts! |      |
+| [Microcontroller](HardwarePurchasing.md#2-microcontroller-hardware) | [Computer Controlled](HardwarePurchasing.md#2-microcontroller-hardware) 
+| --- | --- |
+| Basic Den hosting | All microcontroller programs plus... |
+| Day Skipping | Automated purple beam finder |
+| Egg Hatchers | Den Hosting with stats!  |
+| Unattended Shiny Hunts | Autonomous Shiny Hunts! |
 
 *The levels of automation build off each other, to do Auto Max Lair you have to proceed trhough Microcontroller and Computer Controlled tutorials. You have been warned.*
 
@@ -67,6 +67,7 @@ Purchase *one* of the following Board Connections
 
 | [Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Soldless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
 | --- | --- | --- |
+| **Arudinos only need these** | N/A for Arduinos | N/A for Arduinos |
 | Easiest option, but hard to find | Fairly easy to install. These must have a buldge on the short side. | Most difficult. Will require soldering. |
 | No soldering. Best for beginners | Doesn't require soldering. | Requires soldering. Experienced only. |
 
