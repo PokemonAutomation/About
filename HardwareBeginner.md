@@ -46,7 +46,7 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 
 ---
 
-# (3) Additional Computer Controlled Hardware
+# (3) Additional Hardware for Computer Control Automation
 
 _Buy the necessary items from A, B, C, & D._
 
