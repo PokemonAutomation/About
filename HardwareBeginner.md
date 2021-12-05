@@ -10,12 +10,13 @@ Select your level of automation
 
 | [Microcontroller](HardwareBeginner.md#2-microcontroller-hardware) | [Computer Controlled](HardwareBeginner.md#2-microcontroller-hardware) |
 | --- | --- |
-| Basic Den hosting | All microcontroller programs plus... | 
-| Day Skipping | Automated Dynamax Adventures! |
-| Egg Hatchers | Den Hosting with stats!  |
-| Unattended Shiny Hunts | Autonomous Shiny Hunts! |
+| Basic SwSh Den hosting | All microcontroller programs plus... | 
+| SwSh Day Skipping | Automated Dynamax Adventures! |
+| SwSh Egg Hatchers | Den Hosting with stats!  |
+| Unattended SwSh Shiny Hunts | Autonomous SwSh & BDSP Shiny Hunts! |
 
 *The levels of automation build off each other, to do Auto Max Lair you have to proceed trhough Microcontroller and Computer Controlled tutorials. You have been warned.*
+**Please note that the BDSP programs are still new. The majority of programs are for SwSh.
 
 # (2) Microcontroller Hardware
 
