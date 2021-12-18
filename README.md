@@ -2,10 +2,6 @@
 
 Welcome to Pokémon Automation's official GitHub group.
 
-**Shortcuts:**
-- [Microcontroller Repo:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
-- [Computer-Control Repo:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
-
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
 
 ## What is this?
@@ -22,9 +18,9 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. Other projects such as [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh) use the same approach.
+This approach is not new. Other projects such as brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) use the same approach.
 
-Our version of these "microcontroller-only" programs can be found in the [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -35,7 +31,7 @@ While most automation is entirely Arduino or microcontroller based, we take it t
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield. And we look forward to Pokémon Brilliant Diamond and Shining Pearl!
 
-These "computer-controlled" programs can be found in our [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl).
+These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](README.md#3-computer-control-repo).
 
 **Examples:**
 
@@ -48,32 +44,16 @@ Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 
 ## Get Me Started!
 
-Interested?
+Interested? This is **PART 1**
 
-**If you are new to automation**, start from with the [Microcontroller programs](https://github.com/PokemonAutomation/Microcontroller).
+Choose the link below that aligns with your experience with electronics.
 
-**If you are coming from other projects such as AutoController or pokescripts.xyz**, we still recommend looking at the [Microcontroller programs](https://github.com/PokemonAutomation/Microcontroller) to familiarize yourself with our platform.
-
-Once you are comfortable with the microcontroller programs, you can proceed to the [Computer-Control programs](https://github.com/PokemonAutomation/ComputerControl) to unleash the full capability of our automation.
-
-**Program Lists:**
-- [Microcontroller Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
-- [Computer Control Program List](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
-
-**Still not sure where to start?**, take a look at our [Decision Flow Chart](https://github.com/PokemonAutomation/About/blob/master/Decision%20Flow%20Chart.md).
-
-## Repos
-
-**Main Repos:**
-
-- [About:](https://github.com/PokemonAutomation/About) (this page)
-- [Microcontroller:](https://github.com/PokemonAutomation/Microcontroller) Repo for all microcontroller and Arduino-based automation.
-- [Computer-Control:](https://github.com/PokemonAutomation/ComputerControl) Repo for all computer-based automation.
-
-**Other Repos:**
-
-- [AutoMaxLair:](https://github.com/PokemonAutomation/AutoMaxLair) Stand-alone prototype for Pokémon Sword/Shield Dynamax Adventures.
-
+| [Beginner](https://github.com/Ensamma/About/blob/master/HardwareBeginner.md) | [Experienced](https://github.com/Ensamma/About/blob/master/HardwareExperienced.md) |
+| --- | --- |
+| I don't know what a circuit is | I have a degree in electrical engineering |
+| I have *not* used a microcontroller before | I have used a microcontroller before |
+| Make it work, simply | Options are okay |
+| I'm new to GitHub | I've used GitHub a few times |
 
 ## Credits
 
@@ -113,4 +93,8 @@ For all other uses, please reach out to the administrators of the Pokémon Autom
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
+# References
+### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
+### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
+### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
 
