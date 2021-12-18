@@ -10,6 +10,7 @@ Select your level of automation
 | Day Skipping | Automated purple beam finder |
 | Egg Hatchers | Den Hosting with stats!  |
 | Unattended Shiny Hunts | Autonomous Shiny Hunts! |
+| And more... | And more... |
 
 # (2) Microcontroller Hardware
 
