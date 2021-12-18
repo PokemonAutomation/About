@@ -11,7 +11,7 @@ Select your level of automation
 | Egg Hatchers | Den Hosting with stats!  |
 | Unattended Shiny Hunts | Autonomous Shiny Hunts! |
 
-*The levels of automation build off each other, to do Auto Max Lair you have to proceed trhough Microcontroller and Computer Controlled tutorials. You have been warned.*
+*The levels of automation build off each other, to do Auto Max Lair you have to proceed through Microcontroller and Computer Controlled tutorials. You have been warned.*
 
 # (2) Microcontroller Hardware
 
