@@ -4,7 +4,7 @@ This is the first step in the process towards automation!
 
 Select your level of automation 
 
-| [Microcontroller](HardwarePurchasing.md#2-microcontroller-hardware) | [Computer Controlled](HardwarePurchasing.md#2-microcontroller-hardware) 
+| Microcontroller | Computer Controlled |
 | --- | --- |
 | Basic Den hosting | All microcontroller programs plus... |
 | Day Skipping | Automated purple beam finder |
