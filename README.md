@@ -50,10 +50,10 @@ Choose the link below that aligns with your experience with electronics.
 
 | [Beginner](https://github.com/Ensamma/About/blob/master/HardwareBeginner.md) | [Experienced](https://github.com/Ensamma/About/blob/master/HardwareExperienced.md) |
 | --- | --- |
-| I don't know what a circuit is | I have a degree in electrical engineering |
-| I have *not* used a microcontroller before | I have used a microcontroller before |
-| Make it work, simply | Options are okay |
-| I'm new to GitHub | I've used GitHub a few times |
+| I don't know what a circuit is. | I have a degree in electrical engineering. |
+| I have *not* used a microcontroller before. | I have used a microcontroller before. |
+| I'm impatient and I don't want to think. Just make it work ASAP! | Give me options for me to choose from. |
+| I'm new to GitHub. | I've have experience with GitHub. |
 
 ## Credits
 
