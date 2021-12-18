@@ -41,7 +41,7 @@ Select which column best exemplifies your experience and purchase that microcont
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
 
 ---
@@ -66,7 +66,7 @@ Purchase *one* of the following Board Connections
 
 | [Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Soldless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
 | --- | --- | --- |
-| **Arudinos only need these** | N/A for Arduinos | N/A for Arduinos |
+| **Arduinos only need these** | N/A for Arduinos | N/A for Arduinos |
 | Easiest option, but hard to find | Fairly easy to install. These must have a buldge on the short side. | Most difficult. Will require soldering. |
 | No soldering. Best for beginners | Doesn't require soldering. | Requires soldering. Experienced only. |
 
@@ -82,6 +82,6 @@ Purchase HDMI cable(s) if you don't own any
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-## **Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](https://github.com/Ensamma/Microcontroller/blob/master/Wiki/Hardware/README.md)**
+## **Whether you are doing Computer Controlled or Auto Max Lair Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Hardware/README.md)**
 
 ---
