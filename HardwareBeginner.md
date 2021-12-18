@@ -8,7 +8,7 @@ This is the second step in the process towards automation!
 
 Select your level of automation 
 
-| [Microcontroller](HardwareBeginner.md#2-microcontroller-hardware) | [Computer Controlled](HardwareBeginner.md#2-microcontroller-hardware) |
+| Microcontroller | Computer Controlled |
 | --- | --- |
 | Basic SwSh Den hosting | All microcontroller programs plus... | 
 | SwSh Day Skipping | Automated Dynamax Adventures! |
