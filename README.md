@@ -70,9 +70,9 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 - Ryder - Documentation and wiki management.
 - baboul - Program Development
 - Gin - Program development, Qt6 and Mac support.
+- joyrida - Build scripts and Mac support.
 - Ptamalion - Program development and Qt6 support.
 - b0bness - Program development
-- joyrida - Build scripts and Mac support.
 
 And countless users and testers in the Pokémon Automation Discord Server.
 
