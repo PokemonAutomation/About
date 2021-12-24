@@ -61,7 +61,7 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 
 **Contributors:**
 
-- Mysticial - Project founder.
+- Kuroneko - Project founder.
 - MrDonders - R&D, AutoMaxlair, pioneer of serial hardware.
 - pifopi - R&D, AutoMaxlair, Program+Framework Development
 - Koi - Discord bot integration.
