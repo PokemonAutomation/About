@@ -59,16 +59,19 @@ Choose the link below that aligns with your experience with electronics.
 
 A lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
 
-**Major Contributors:**
+**Contributors:**
 
 - Mysticial - Project founder.
-- MrDonders - R&D and pioneer of serial hardware.
-- pifopi - Development + R&D
+- MrDonders - R&D, AutoMaxlair, pioneer of serial hardware.
+- pifopi - R&D, AutoMaxlair, Program+Framework Development
 - Koi - Discord bot integration.
-- denvoros - Build scripts, Mac support, and AI R&D.
+- denvoros - AI R&D, AutoMaxlair, Build scripts, Mac support.
 - Ryder - Documentation and wiki management.
-- baboul - Development
-- SakuraKim - Development + R&D.
+- Gin - Program development, Qt6 and Mac support.
+- Ptamalion - Program development and Qt6 support.
+- b0bness - Program development
+- baboul - Program Development
+- SakuraKim - R&D, Program+Framework Development.
 - joyrida - Build scripts and Mac support.
 
 And countless users and testers in the Pokémon Automation Discord Server.
