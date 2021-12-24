@@ -66,12 +66,12 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 - pifopi - R&D, AutoMaxlair, Program+Framework Development
 - Koi - Discord bot integration.
 - denvoros - AI R&D, AutoMaxlair, Build scripts, Mac support.
+- SakuraKim - R&D, Program+Framework Development.
 - Ryder - Documentation and wiki management.
+- baboul - Program Development
 - Gin - Program development, Qt6 and Mac support.
 - Ptamalion - Program development and Qt6 support.
 - b0bness - Program development
-- baboul - Program Development
-- SakuraKim - R&D, Program+Framework Development.
 - joyrida - Build scripts and Mac support.
 
 And countless users and testers in the Pokémon Automation Discord Server.
