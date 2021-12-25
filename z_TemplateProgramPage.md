@@ -58,3 +58,9 @@ _Include information about how program changes when utilizing video feedback_
 ## Troubleshooting
 
 _Include information, if any, regarding troubleshooting_Z_
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
