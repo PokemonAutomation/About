@@ -1,6 +1,6 @@
 This is the first step in the process towards automation!
 
-### **If you do not have a Windows computer, *STOP RIGHT NOW.***
+### **Attention: If you do not have a Windows computer...**
 
 Due to lack of developer support, we no longer officially support Mac and Linux. While it is still possible to set these programs up on Mac and Linux, you may need to debug the outdated build scripts.
 
