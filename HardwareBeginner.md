@@ -56,7 +56,7 @@ _Buy the necessary items from A, B, C, & D._
 
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
 
-**B.** [Mini-Grabbers to Male Jumer Wires](https://www.amazon.com/gp/product/B08M5GNY47)
+**B.** [Jumper Wires](https://www.amazon.com/gp/product/B01EV47GI4/)
 
 **C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
 
