@@ -10,7 +10,7 @@ This page is provided as a courteous and may not cover all the questions you hav
    - [DaySkipperJPN-7.8k](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN-7.8k.md)
 - **Beam Finding:**
    - [Beam Reset](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md)
-   - [Purple Beam Finder](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced:-PurpleBeamFinder)
+   - [Purple Beam Finder](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/PurpleBeamFinder.md)
 - **Hosting**
    - [Den Roller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md)
    - [AutoHost Rolling](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/AutoHost-Rolling.md)
@@ -54,8 +54,8 @@ To start off, we will work through obtaining the correct beam you want and findi
 
 1. Approach an empty den
 2. Activate the den
-   1. If you need a rare den (purple beam): follow [Beam Reset](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md) if you have a Basic Setup _or_ [Purple Beam Finder](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Advanced:-PurpleBeamFinder) if you have an Advanced Setup.
-   2. If you need a normal den (red beam) use a wishing piece. There is a 1/10 chance the beam will be purple and you will need to clear the den and try again. Conversely you can use [Beam Reset](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-BeamReset) and manually stop the program when you have a red beam.
+   1. If you need a rare den (purple beam): follow [Beam Reset](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md) if you have a MC Setup _or_ [Purple Beam Finder](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/PurpleBeamFinder.md) if you have a CC Setup.
+   2. If you need a normal den (red beam) use a wishing piece. There is a 1/10 chance the beam will be purple and you will need to clear the den and try again. Conversely you can use [Beam Reset](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/BeamReset.md) and manually stop the program when you have a red beam.
 3. Your game will save automatically, but do not save it yourself after that point. 
 4. Enter the raid, defeat the Pokémon, and catch it. **DO NOT SAVE**
 5. Connect to the internet in Y-Comm
@@ -121,10 +121,10 @@ After verifying how far you are from your shiny frame, you double check the den 
 1. Use the [Den Roller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DenRoller.md) to roll to your shiny frame 3 (or more) frames away.
    1. Follow the instruction on the page for correct setup and use.
 2. When the program whistles at you, stop the program.
-   1. Basic users:
+   1. MC users:
       1. _Turn your TV sound on_
       2. This means removing the device from the dock.
-   2. For advanced users:
+   2. For CC users:
       1. Follow the Serial Guide to [Setup Sound](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/Windows.md#step-7-setup-sound).
       2. you can stop the program.
 3. Enter the raid.
