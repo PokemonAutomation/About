@@ -55,12 +55,12 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 _Buy the necessary items from A, B, C, & D._
 
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
+   * ***DO NOT get the Prolific (PLxxxx) controllers.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
 
 **B.** [Jumper Wires](https://www.amazon.com/gp/product/B01EV47GI4/)
 
 **C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
-
-> Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
+* Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
 
 **D.** HDMI Cables (if you don't own any)
 
