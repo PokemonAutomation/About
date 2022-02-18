@@ -35,7 +35,7 @@ _Buy the necessary items from A & B._
 
 Select which column best exemplifies your experience and purchase that microcontroller.
 
-| [Ardunio Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) | [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [Pro Micro](https://www.amazon.com/gp/product/B08BJNV1J3) |
+| [Arduino Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) | [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [Pro Micro](https://www.amazon.com/gp/product/B08BJNV1J3) |
 | --- | --- | --- | 
 | For beginners | For beginners | Experienced users |
 | I am accustomed to Arduino | I want to easily add programs| I want to automate multiple switches, cheaply |
