@@ -70,7 +70,7 @@ Purchase *one* of the following serial boards
 
 Purchase *one* of the following Board Connections
 
-| [Mini-Grabbers to Male Jumper Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Soldless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
+| [Mini-Grabbers to Male Jumper Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Solderless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
 | --- | --- | --- |
 | **Arduinos only need these** | N/A for Arduinos | N/A for Arduinos |
 | Easiest option, but hard to find | Fairly easy to install. These must have a buldge on the short side. | Most difficult. Will require soldering. |
