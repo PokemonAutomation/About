@@ -38,12 +38,12 @@ Select which column best exemplifies your experience and purchase that microcont
 | [Arduino Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K) | [Teensy2.0](https://www.pjrc.com/store/teensy.html) / [Teensy2.0++](https://www.pjrc.com/store/teensypp.html) | [Pro Micro](https://www.amazon.com/gp/product/B08BJNV1J3) |
 | --- | --- | --- | 
 | For beginners | For beginners | Experienced users |
-| I am accustomed to Arduino | I want to easily add programs| I want to automate multiple switches, cheaply |
+| I am accustomed to Arduino | I want to easily add programs | I want to automate multiple switches, cheaply |
 | I'm not experienced with electronics | I'm not experienced with electronics | I know my way around electronics |
 
 ### C. Verify you have the following
 
-1. A Mini-USB male to USB-A male cable or adaptor (from step (2)A)
+1. A Mini-USB male to USB-A male cable or adapter (from step (2)A)
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
 
@@ -54,7 +54,7 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 
 # (3) Additional Computer Controlled Hardware
 
-_Buy the necessary items from A, B, C, & D._
+_Buy the necessary items from A, B, C, and D._
 
 ### A. Serial UART board
 
@@ -73,8 +73,8 @@ Purchase *one* of the following Board Connections
 | [Mini-Grabbers to Male Jumper Wires](https://www.amazon.com/gp/product/B08M5GNY47) | [Solderless Hammer Headers](https://www.adafruit.com/product/3662) | [Hammer Headers](https://www.adafruit.com/product/2822) | 
 | --- | --- | --- |
 | **Arduinos only need these** | N/A for Arduinos | N/A for Arduinos |
-| Easiest option, but hard to find | Fairly easy to install. These must have a buldge on the short side. | Most difficult. Will require soldering. |
-| No soldering. Best for beginners | Doesn't require soldering. | Requires soldering. Experienced only. |
+| Easiest option, but hard to find. | Fairly easy to install. These must have a bulge on the short side. | Most difficult. Will require soldering. |
+| No soldering. Best for beginners. | Doesn't require soldering. | Requires soldering. Experienced only. |
 
 ### C. Capture Card
 
@@ -84,7 +84,7 @@ Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088H
 
 Purchase HDMI cable(s) if you don't own any
 
-***Important:** You will need a fairly powerful computer to handle serial programs with video feedback. For a single Switch with video feedback, we recommend a quad core computer no older than 2015. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer. The computer must also be running 64-bit Windows, though plan to extend support to other operating systems in the future.*
+***Important:** You will need a fairly powerful computer to handle serial programs with video feedback. For a single Switch with video feedback, we recommend a computer with a quad core processor no older than 2015. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer. The computer must also be running 64-bit Windows, though we plan to extend support to other operating systems in the future.*
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
