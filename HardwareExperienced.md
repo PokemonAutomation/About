@@ -28,7 +28,7 @@ _Buy the necessary items from A & B._
 
 | Switch | Switch Lite |
 | --- | --- |
-| Mini-USB male to USB-A male cable or adapter. ([example 0](https://www.amazon.com/Cmple-Pack-Male-5-Pin-Adapter/dp/B00A1PH0ZW), [example 1](https://www.amazon.com/gp/product/B00P0GI68M)) | Mini-USB male to USB-A male cable or adapter. ([example](https://www.amazon.com/gp/product/B07QJTX59H/)) |
+| Mini-USB male to USB-A male cable or adapter. ([example 0](https://www.amazon.com/Cmple-Pack-Male-5-Pin-Adapter/dp/B084RN3Z3S?th=1), [example 1](https://www.amazon.com/gp/product/B00P0GI68M)) | Mini-USB male to USB-A male cable or adapter. ([example](https://www.amazon.com/gp/product/B07QJTX59H/)) |
 |     | A USB hub or portable dock. ([example](https://www.amazon.com/gp/product/B07JK9DFKH)) |
 
 ### B. Buy *one* of the following Microcontrollers.
