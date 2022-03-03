@@ -64,12 +64,12 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 - Kuroneko - Project founder.
 - MrDonders - R&D, AutoMaxlair, pioneer of serial hardware.
 - pifopi - R&D, AutoMaxlair, Program+Framework Development
+- Gin - R&D, Program+Framework development, Qt6, audio, and Mac support.
 - Koi - Discord bot integration.
 - denvoros - AI R&D, AutoMaxlair, Build scripts, Mac support.
 - SakuraKim - R&D, Program+Framework Development.
 - Ryder - Documentation and wiki management.
 - baboul - Program Development
-- Gin - Program development, Qt6 and Mac support.
 - joyrida - Build scripts and Mac support.
 - Ptamalion - Program development and Qt6 support.
 - b0bness - Program development
