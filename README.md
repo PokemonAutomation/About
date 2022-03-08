@@ -29,7 +29,7 @@ Our version of these "microcontroller-only" programs can be found in the Microco
 
 While most automation is entirely Arduino or microcontroller based, we take it to a new level. We connect the microcontroller to a PC to utilize the full computing potential of a modern computer. This allows us to perform visual recognition of the display and make gameplay decisions the same way a human player would.
 
-This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield. And we look forward to Pokémon Brilliant Diamond and Shining Pearl!
+This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
 
 These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](README.md#3-computer-control-repo).
 
