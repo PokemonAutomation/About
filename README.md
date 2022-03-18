@@ -41,6 +41,9 @@ Automatic detection of shiny encounters using visual recognition of the shiny sp
 Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
 <img src="images/MaxLair-0.png" width="800">
 
+Shiny detection in Pokémon Legends Arceus using audio recognition.
+<img src="images/PLA-ShinyDetection-0.png" width="800">
+
 
 ## Get Me Started!
 
