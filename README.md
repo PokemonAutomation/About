@@ -18,7 +18,7 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. Other projects such as brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) use the same approach.
+This approach is not new. brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) was (probably?) the first to do this with Switch-based Pokémmon games.
 
 Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
 
@@ -75,6 +75,7 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 - baboul - Program Development
 - joyrida - Build scripts and Mac support.
 - Ptamalion - Program development and Qt6 support.
+- Icaroto - Program development
 - b0bness - Program development
 
 And countless users and testers in the Pokémon Automation Discord Server.
