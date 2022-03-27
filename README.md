@@ -60,8 +60,6 @@ Choose the link below that aligns with your experience with electronics.
 
 ## Credits
 
-A lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
-
 **Contributors:**
 
 - Kuroneko - Project founder.
@@ -79,6 +77,8 @@ A lot of credit goes to brianuuuSonic who first brought Arduino-based automation
 - b0bness - Program development
 
 And countless users and testers in the Pokémon Automation Discord Server.
+
+Lastly, a lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
 
 
 ## Supporting Us
