@@ -18,9 +18,7 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) was (probably?) the first to do this with Switch-based Pokémmon games.
-
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(1)](README.md#2-microcontroller-repo).
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -31,7 +29,7 @@ While most automation is entirely Arduino or microcontroller based, we take it t
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
 
-These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](README.md#3-computer-control-repo).
+These "computer-controlled" programs can be found in our Computer-Control Repo[(2)](README.md#3-computer-control-repo).
 
 **Examples:**
 
@@ -78,7 +76,23 @@ Choose the link below that aligns with your experience with electronics.
 
 And countless users and testers in the Pokémon Automation Discord Server.
 
-Lastly, a lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
+
+## A note about brianuuuSonic's AutoController
+
+[brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh) is an independent project that is not affiliated us.
+
+brianuuuSonic is the first to do Microcontroller-only automation for Pokémon and it has influenced many similar projects (including Pokémon Automation). However, his "Smart Programs" are a direct copy/rip-off of our Computer-Control programs. Initially it was without attribution, then with bare-minimum attribution only after we reached out. (buried at the bottom of a readme as a single bullet under credits)
+
+brianuuuSonic never publicly mentions the existence of Pokémon Automation - let alone the fact that he has ripped so many things from us. He secretly watches this project very closely and copies things into his.
+
+Examples:
+1. brianuuuSonic has copy-pasted code from our codebase.
+2. He has rewritten a significant amount of our code into his coding-style while preserving the exact same functionality - often with the same variable naming.
+3. He has copied some of our images for his tutorial without permission.
+4. He has copied our OCR error-correction training resources.
+5. He has largely copied our algorithms for OCR error-correction and audio detection.
+
+While few of these constitute as a violation of the MIT license, we nevertheless consider his behavior to be of poor academic honesty.
 
 
 ## Supporting Us
@@ -101,7 +115,6 @@ For all other uses, please reach out to the administrators of the Pokémon Autom
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
 # References
-### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
-### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
-### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
+### (1) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
+### (2) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
 
