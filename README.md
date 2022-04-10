@@ -18,7 +18,7 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(1)](README.md#2-microcontroller-repo).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(1)](README.md#1-microcontroller-repo).
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -29,7 +29,7 @@ While most automation is entirely Arduino or microcontroller based, we take it t
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
 
-These "computer-controlled" programs can be found in our Computer-Control Repo[(2)](README.md#3-computer-control-repo).
+These "computer-controlled" programs can be found in our Computer-Control Repo[(2)](README.md#2-computer-control-repo).
 
 **Examples:**
 
