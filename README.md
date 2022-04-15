@@ -18,7 +18,7 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) was (probably?) the first to do this with Switch-based Pokémmon games.
+This approach is not new. brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) was (probably?) the first to do this for Switch-based Pokémon games.
 
 Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
 
@@ -27,7 +27,7 @@ Our version of these "microcontroller-only" programs can be found in the Microco
 
 ### What do we do differently?
 
-While most automation is entirely Arduino or microcontroller based, we take it to a new level. We connect the microcontroller to a PC to utilize the full computing potential of a modern computer. This allows us to perform visual recognition of the display and make gameplay decisions the same way a human player would.
+While most automation is entirely Arduino or microcontroller based, we have taken it to a new level. We connect the microcontroller to a PC to utilize the full computing potential of a modern computer. This allows us to perform visual recognition of the display and make gameplay decisions the same way a human player would.
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
 
@@ -58,14 +58,15 @@ Choose the link below that aligns with your experience with electronics.
 | I'm impatient and I don't want to think. Just make it work ASAP! | Give me options for me to choose from. |
 | I'm new to GitHub. | I've have experience with GitHub. |
 
+
 ## Credits
 
 **Contributors:**
 
 - Kuroneko - Project founder.
 - MrDonders - R&D, AutoMaxlair, pioneer of serial hardware.
-- pifopi - R&D, AutoMaxlair, Program+Framework Development
 - Gin - R&D, Program+Framework development, Qt6, audio, and Mac support.
+- pifopi - R&D, AutoMaxlair, Program+Framework Development.
 - Koi - Discord bot integration.
 - denvoros - AI R&D, AutoMaxlair, Build scripts, Mac support.
 - SakuraKim - R&D, Program+Framework Development.
@@ -77,8 +78,6 @@ Choose the link below that aligns with your experience with electronics.
 - b0bness - Program development
 
 And countless users and testers in the Pokémon Automation Discord Server.
-
-Lastly, a lot of credit goes to brianuuuSonic who first brought Arduino-based automation to Pokémon Sword/Shield. Without his work to spur our interest in this area, we wouldn't have formed this group to begin with.
 
 
 ## Supporting Us
