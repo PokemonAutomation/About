@@ -52,6 +52,8 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 
 # (3) Additional Hardware for Computer Control Automation
 
+> **WARNING:** Swite Lite does *not* output video and thus programs requiring video feedback programs will *not* work. Consider downloading the programs to check what you want to use prior to purchase of these items if you have a Switch Lite.
+
 _Buy the necessary items from A, B, C, & D._
 
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
