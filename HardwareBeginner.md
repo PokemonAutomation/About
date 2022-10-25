@@ -55,21 +55,23 @@ If you are doing Computer Controlled or Auto Max Lair automation, proceed below 
 _Buy the necessary items from A, B, C, & D._
 
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
-   * ***DO NOT get the Prolific (PLxxxx) controllers.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
+>    * ***DO NOT get the Prolific (PLxxxx) controllers.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
+> <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/uart-adafruit.jpg" height="200">
 
 **B.** [Male-Male Jumper Wires](https://www.amazon.com/dp/B07S1NGQR1)
-* Note: If purchasing the items from this list, you will need Male to Male Jumper wires. The following link is a search for that [type of item](https://www.amazon.com/jumper-wires-male/s?k=jumper+wires+male+to+male)
+> * Note: If purchasing the items from this list, you will need Male to Male Jumper wires. The following link is a search for that [type of item](https://www.amazon.com/jumper-wires-male/s?k=jumper+wires+male+to+male)
 > **WARNING:** If the link is broken, please notify us in our Discord!
 > 
 > **WARNING:** If you do ***not*** buy Hardware from this list, you will need to evaluate what you purchased for the correct type of Jumper Wire.
+> <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/jumper-cables.jpg" height="200">
 
 **C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
-* Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
+> * Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
+> <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/capture-card-nopt.jpg" height="200">
 
 **D.** HDMI Cables (if you don't own any)
-
-***Important:** You will need a fairly powerful computer to handle serial programs with video feedback. For a single Switch with video feedback, we recommend a quad core computer no older than 2015. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer. The computer must also be running 64-bit Windows, though plan to extend support to other operating systems in the future.*
-
+> ***Important:** You will need a fairly powerful computer to handle serial programs with video feedback. For a single Switch with video feedback, we recommend a quad core computer no older than 2015. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer. The computer must also be running 64-bit Windows, though plan to extend support to other operating systems in the future.*
+> 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
 ## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
