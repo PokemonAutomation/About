@@ -57,7 +57,11 @@ _Buy the necessary items from A, B, C, & D._
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
    * ***DO NOT get the Prolific (PLxxxx) controllers.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
 
-**B.** [Jumper Wires](https://www.amazon.com/gp/product/B01EV47GI4/)
+**B.** [Male-Male Jumper Wires](https://www.amazon.com/dp/B07S1NGQR1)
+* Note: If purchasing the items from this list, you will need Male to Male Jumper wires. The following link is a search for that [type of item](https://www.amazon.com/jumper-wires-male/s?k=jumper+wires+male+to+male)
+> **WARNING:** If the link is broken, please notify us in our Discord!
+> 
+> **WARNING:** If you do ***not*** buy Hardware from this list, you will need to evaluate what you purchased for the correct type of Jumper Wire.
 
 **C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
 * Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
