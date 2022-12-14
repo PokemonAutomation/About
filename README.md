@@ -63,19 +63,21 @@ Choose the link below that aligns with your experience with electronics.
 
 **Contributors:**
 
-- Kuroneko - Project founder.
-- MrDonders - R&D, AutoMaxlair, pioneer of serial hardware.
-- Gin - R&D, Program+Framework development, Qt6, audio, and Mac support.
-- pifopi - R&D, AutoMaxlair, Program+Framework Development.
-- Koi - Discord bot integration.
-- denvoros - AI R&D, AutoMaxlair, Build scripts, Mac support.
-- SakuraKim - R&D, Program+Framework Development.
-- Ryder - Documentation and wiki management.
-- baboul - Program Development
-- joyrida - Build scripts and Mac support.
-- Ptamalion - Program development and Qt6 support.
-- Icaroto - Program development
-- b0bness - Program development
+- [Kuroneko (Kuroneko#6019)](@Mysticial) - Project founder.
+- [Gin (Gin#2531)](@Gin890) - R&D, Program+Framework development, Qt6, audio, and Mac support.
+- [pifopi (pifopi#7834)](@pifopi) - R&D, AutoMaxlair, Program+Framework Development.
+- [MrDonders (MrDonders#4095)](@ercdndrs) - R&D, AutoMaxlair, pioneer of serial hardware.
+- [Koi (Koi#3088)](@Koi-3088) - Discord bot integration.
+- [denvoros (denvoros#0001)](@denvoros) - AI R&D, AutoMaxlair, Build scripts, Mac support.
+- [SakuraKim (SakuraKim#9422)](@SakuraKimAce) - R&D, Program+Framework Development.
+- [Fye (Fye#7349)](@fyex) - Program Development
+- [Ryder (_Ryder#0149)](@Ensamma) - Documentation and wiki management.
+- [baboul (baboul#7130)](@mb-baboul) - Program Contributor
+- [joyrida (JoyRida#6391)](@RickyGrassmuck) - Build scripts and Mac support.
+- Ptamalion (Ptamalion#1167) - Program Contributor and Qt6 support.
+- [Icaroto (Icaroto#9259)](@Icaroto) - Program Contributor
+- b0bness (b0bness#9479) - Program Contributor
+- [kichithewolf (kichithewolf#5141)](@kichithewolf) - Program Contributor
 
 And countless users and testers in the Pokémon Automation Discord Server.
 
