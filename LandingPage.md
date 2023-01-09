@@ -78,7 +78,7 @@ First of all, choose whether you need microcontroller-only programs or computer-
 ### 2. Follow tutorial
 
 After you determine whether you need microcontroller-only or computer-controlled programs,
-follow the [tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/README.md) to purchase hardware and set up the program.
+follow the [tutorial](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md) to purchase hardware and set up the program.
 
 
 
