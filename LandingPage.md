@@ -56,23 +56,33 @@ Interested? Continue reading!
 First of all, choose whether you need microcontroller-only programs or computer-controlled ones.
 
 **Microcontroller-only programs:**
-- Require one computer, one microcontroller, USB cable and Switch dock.
-- All microcontroller-only programs work with any Switch, including Switch Lite.
-- Function the same as a controller script/programmable game controller: send a pre-determined sequence of button presses to Switch.
-- Whenever you want to run a new program, you need to use dedicated software to build the program file (.hex file) and flash (aka install) it ont the microcontroller.
-- Mac and Linux users need to be computer-saavy and are willing to debug shell scripts to use most of the microcontroller-only programs.
-- Include Sword/Shield programs like basic den hosting, day skipping, egg fetching, egg hatching and unattended shiny hunting. Check our full [microcontroller program list](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md).
-- Due to Pokémon Brilliant Diamond/Shining Pearl being unstable on receiving button presses, we don't have microcontroller programs for it.
-- As the Pokémon game developer Game Freak embraces open world game design, it is more difficult to write reliable microcontroller programs for them. We don't yet have microcontroller programs for Pokémon Legends Arceus and Pokémon Scarlet/Violet. Future games are likely to be difficult for microcontroller programs as well.
+- [Full microcontroller-only program list](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md).
+- Support Pokémon Sword/Shield, Brilliant Diamond/Shining Pearl, Scarlet/Violet.
+- Support any Switch, including Switch Lite.
+- Require one computer (Windows, macOS or Linux), one microcontroller, USB cable and Switch dock.
 
 **Computer-controlled programs:**
-- Require one computer, one microcontroller, Switch dock, capture card and more cables.
-- Most computer-controlled programs **don't work** with Switch Lite because it does not output video streams. Check our [computer-controlled program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) for which programs work with Switch Lite.  
-- Can use capture card to read video and audio streams to your personal computer to compute the best actions in real time.
-- Can use your computer to send commands directly into microcontroller, so you don't need to build and flash a .hex file to microcontroller every time. For example, you can [send a new Scarlet/Violet raid code immediately](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/FastCodeEntry.md) to microcontroller to let it type the raid code faster than manual typing. You cannot achieve this by a microcontroller-only program as it will take time to build and flash the .hex file containing the raid code. By then the raid lobby will be full.
-- Work with Windows, macOS or Linux computers. Programs on macOS and Linux may be unoptimized. A higher-end macOS or Linux machine may be needed.
-- Include all microcontroller programs plus programs using video and audio feedback, like automated Dynamax Adventures in Crown Tundra, fully automated wild shiny hunting in Sword/Shield and BDSP, automated raid den hosting with stats in Sword/Shield and Scarlet/Violet, and fully automated shiny egg hunting in Sword/Shield, Brilliant Diamond/Shining Pearl and Scarlet/Violet. Check our full [computer-controlled program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md).
-- Due to the trend of open world gameplay in Pokémon games, computer-controlled programs will be the major focus of our development in future.
+- [Full computer-controlled program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md).
+- Support Pokémon Sword/Shield, Brilliant Diamond/Shining Pearl, Legends Arceus, Scarlet/Violet.
+- Most don't support Switch Lite.
+- Require one computer (Windows, macOS or Linux), one microcontroller, Switch dock, capture card and more cables.
+
+Microcontroller-only programs function the same as a controller script/programmable game controller.
+They send a pre-determined sequence of button presses to Switch.
+Whenever you want to run a new program, you need to use dedicated software to build the program file (.hex file) and flash (aka install) it onto the microcontroller.
+Then the microcontroller runs the program.
+Mac and Linux users need to be a bit computer-savvy and are willing to debug shell scripts to flash microcontroller-only programs.
+
+As the Pokémon game developer Game Freak embraces open world game design, it is more difficult to write reliable microcontroller programs for them. Most of our developers are now focused on computer-controlled programs. There will likely be fewer microcontroller-only programs for future games than for Sword/Shield.
+
+Computer-controlled programs run on your PC. They send button presses to the microcontroller, which relays them to Switch.
+Computer-controlled programs can read Switch video stream using a video capture card.
+This makes them more powerful than microcontroller-only programs.
+Unfortunately, most computer-controlled programs **don't work** with Switch Lite because it does not output video stream.
+Check [the program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
+for which computer-controlled programs work with Switch Lite.  
+
+Computer-controlled programs may be unoptimized on macOS and Linux. A higher-end macOS or Linux machine may be needed.
 
 
 ### 2. Follow tutorial
