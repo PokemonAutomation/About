@@ -1,7 +1,7 @@
 # The Home Page
 Welcome to the Home Page of setting up your Pokemon automation. 
 
-First order of business is understanding how far into automation you will need to go for what you want to do.
+First order of business is understanding how far into automation you will need to go for what you want to do. The chart below is a simplification of what setup to choose based on the game. The automation level is set by what the majority of types of programs any given game has.
 
 | Game | Automation Level |
 | --- | --- |
@@ -11,7 +11,9 @@ First order of business is understanding how far into automation you will need t
 | Sword & Shield | Microcontroller |
 | Sowrd & Shield DLC | Computer Controlled |
 
-
+`For a full list of programs go here for [Microcontroller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) and here for [Computer Controlled](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Programs).`
+  
+<!-- Thoughts on this table? -->
 
 ---
 # Buy Hardware
