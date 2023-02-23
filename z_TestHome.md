@@ -11,7 +11,7 @@ First order of business is understanding how far into automation you will need t
 | Sword & Shield | Microcontroller |
 | Sowrd & Shield DLC | Computer Controlled |
 
->> For a full list of programs go here for [Microcontroller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) and here for [Computer Controlled](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Programs).
+> For a full list of programs go here for [Microcontroller](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) and here for [Computer Controlled](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Programs).
   
 <!-- Thoughts on this table? -->
 
