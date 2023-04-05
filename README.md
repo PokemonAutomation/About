@@ -75,7 +75,7 @@ Choose the link below that aligns with your experience with electronics.
 - [baboul (baboul#7130)](@mb-baboul) - Program Contributor
 - [joyrida (JoyRida#6391)](@RickyGrassmuck) - Build scripts and Mac support.
 - Ptamalion (Ptamalion#1167) - Program Contributor and Qt6 support.
-- [Icaroto (Icaroto#9259)](@Icaroto) - Program Contributor
+- [Icaroto (Icaroto#9259)](@PhobosLegacy) - Program Contributor
 - b0bness (b0bness#9479) - Program Contributor
 - [kichithewolf (kichithewolf#5141)](@kichithewolf) - Program Contributor
 
