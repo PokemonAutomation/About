@@ -18,9 +18,9 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
 
-This approach is not new. brianuuuSonic's AutoController[(1)](README.md#1-brianuuusonics-autocontroller) was (probably?) the first to do this for Switch-based Pokémon games.
+This approach is not new. brianuuuSonic's AutoController[^1] was (probably?) the first to do this for Switch-based Pokémon games.
 
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[(2)](README.md#2-microcontroller-repo).
+Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[^2]
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
@@ -31,7 +31,7 @@ While most automation is entirely Arduino or microcontroller based, we have take
 
 This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
 
-These "computer-controlled" programs can be found in our Computer-Control Repo[(3)](README.md#3-computer-control-repo).
+These "computer-controlled" programs can be found in our Computer-Control Repo[^3]
 
 **Examples:**
 
@@ -56,7 +56,7 @@ Choose the link below that aligns with your experience with electronics.
 | I don't know what a circuit is. | I have a degree in electrical engineering. |
 | I have *not* used a microcontroller before. | I have used a microcontroller before. |
 | I'm impatient and I don't want to think. Just make it work ASAP! | Give me options for me to choose from. |
-| I'm new to GitHub. | I've have experience with GitHub. |
+| I'm new to GitHub. | I have experience with GitHub. |
 
 
 ## Credits
@@ -93,16 +93,14 @@ If such a disclosure is not permissible, we ask that you avoid any explicit or i
 
 ## License
 
-You are free to use our software personal use only.
+You are free to use our software for personal use only.
 
-Do not try to profit off of these programs. It's just a game; keep the money out of it and have fun.
+Do not try to profit from these programs. It's just a game; keep the money out of it and have fun.
 
 For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
-# References
-### (1) [brianuuuSonic's AutoController](https://github.com/brianuuu/AutoController_swsh)
-### (2) [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
-### (3) [Computer-Control Repo](https://github.com/PokemonAutomation/ComputerControl) 
-
+[^1]: https://github.com/brianuuu/AutoController_swsh
+[^2]: https://github.com/PokemonAutomation/Microcontroller
+[^3]: https://github.com/PokemonAutomation/ComputerControl
