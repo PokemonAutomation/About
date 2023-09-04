@@ -49,7 +49,7 @@ If it doesn't come with the cable, you will need it separately. It is a Micro-US
 1. An Arduino **Leonardo** (from step (2)A)
 2. A USB hub or portable dock (if you have a Switch Lite!)
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**.
 If you are doing Computer Controlled automation, proceed below to buy more hardware.
 
 ---
@@ -78,7 +78,7 @@ _Buy the necessary items from A, B, C, & D._
 > 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
+## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**.
 
 ---
 
