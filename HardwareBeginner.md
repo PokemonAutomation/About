@@ -2,11 +2,12 @@
 
 This is the second step in the process towards automation!
 
-### **If you do not have a Windows computer, *STOP RIGHT NOW.***
+### **Attention: If you do not have a Windows computer...**
 
-Due to lack of developer support, we no longer officially support Mac and Linux. While it is still possible to set these programs up on Mac and Linux, you may need to debug the outdated build scripts.
+Due to lack of developer, our support of Mac and Linux is limited.
+While you can set these programs up on Mac and Linux, you will need to know how to run command-line build scripts.
 
-If you are not willing to do that or you have no idea what this means, then stop. You will not be able to run these programs.
+If you are not willing to do that or you have no idea what this means, then stop. Unfortunately you will not be able to run these programs.
 
 # (1) Select how far into automation you want to get
 
@@ -14,7 +15,7 @@ If you are not willing to do that or you have no idea what this means, then stop
 
 Select your level of automation 
 
-| Microcontroller | Computer Controlled |
+| Microcontroller Only | Computer Controlled |
 | --- | --- |
 | Basic SwSh Den hosting | All microcontroller programs plus... | 
 | SwSh Day Skipping | Automated Dynamax Adventures! |
@@ -22,7 +23,10 @@ Select your level of automation
 | Unattended SwSh Shiny Hunts | Autonomous SwSh & BDSP Shiny Hunts! |
 | And more... | And more... |
 
-# (2) Microcontroller Hardware
+> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work.
+If you only have a Switch Lite, consider checking our program list (microcontroller-only[^1] and computer-controlled[^2]) to know what you want to use prior to purchase of the hardware.
+
+# (2) Basic Automation Hardware
 
 _Buy the following items below._
 
@@ -46,13 +50,11 @@ If it doesn't come with the cable, you will need it separately. It is a Micro-US
 2. A USB hub or portable dock (if you have a Switch Lite!)
 
 ## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
-If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
+If you are doing Computer Controlled automation, proceed below to buy more hardware.
 
 ---
 
 # (3) Additional Hardware for Computer Control Automation
-
-> **WARNING:** Swite Lite does *not* output video and thus programs requiring video feedback programs will *not* work. Consider downloading the programs to check what you want to use prior to purchase of these items if you have a Switch Lite.
 
 _Buy the necessary items from A, B, C, & D._
 
@@ -79,3 +81,6 @@ _Buy the necessary items from A, B, C, & D._
 ## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Software/Beginner-Windows-ArduinoLeonardo.md)**
 
 ---
+
+[^1]: https://github.com/PokemonAutomation/Microcontroller
+[^2]: https://github.com/PokemonAutomation/ComputerControl

@@ -2,21 +2,23 @@ This is the first step in the process towards automation!
 
 ### **Attention: If you do not have a Windows computer...**
 
-Due to lack of developer support, we no longer officially support Mac and Linux. While it is still possible to set these programs up on Mac and Linux, you may need to debug the outdated build scripts.
-
-If you are not willing to do that or you have no idea what this means, then stop. You will not be able to run these programs.
+Due to lack of developer, our support of Mac and Linux is limited.
+While you can set these programs up on Mac and Linux, you will need to know how to run command-line build scripts.
 
 # (1) Select how far into automation you want to get
 
 Select your level of automation 
 
-| Microcontroller | Computer Controlled |
+| Microcontroller Only | Computer Controlled |
 | --- | --- |
 | Basic Den hosting | All microcontroller programs plus... |
 | Day Skipping | Automated purple beam finder |
 | Egg Hatchers | Den Hosting with stats!  |
 | Unattended Shiny Hunts | Autonomous Shiny Hunts! |
 | And more... | And more... |
+
+> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work.
+If you only have a Switch Lite, consider checking our program list (microcontroller-only[^1] and computer-controlled[^2]) to know what you want to use prior to purchase of the hardware.
 
 # (2) Microcontroller Hardware
 
@@ -47,7 +49,7 @@ Select which column best exemplifies your experience and purchase that microcont
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
 
-## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md)**
+## **If you are only doing Microcontroller Automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md)**.
 If you are doing Computer Controlled or Auto Max Lair automation, proceed below to buy more hardware.
 
 ---
@@ -88,6 +90,9 @@ Purchase HDMI cable(s) if you don't own any
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
-## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md)**
+## **If you are doing Computer Controlled automation proceed to the next step [here](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Tutorial/Tutorial.md)**.
 
 ---
+
+[^1]: https://github.com/PokemonAutomation/Microcontroller
+[^2]: https://github.com/PokemonAutomation/ComputerControl

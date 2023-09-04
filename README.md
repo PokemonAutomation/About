@@ -24,16 +24,17 @@ Our version of these "microcontroller-only" programs can be found in the Microco
 
 <img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
 
-
 ### What do we do differently?
 
-While most automation is entirely Arduino or microcontroller based, we have taken it to a new level. We connect the microcontroller to a PC to utilize the full computing potential of a modern computer. This allows us to perform visual recognition of the display and make gameplay decisions the same way a human player would.
+While most automation is entirely Arduino or microcontroller based, we have taken it to a new level.
+We connect the microcontroller and a capture card to a PC.
+Utilizing the full computing potential of a modern computer, our PC programs perform visual and audio recognition from the Switch stream and make gameplay decisions the same way a human player would.
 
-This has allowed us to automate every single shiny hunt in Pokémon Sword/Shield as well as a good portion of the newer games.
+This has allowed us to automate every single shiny hunt in Pokémon Sword and Shield as well as a good portion of the newer games: Pokémon Brilliant Diamond and Shining Pearl, Pokémon Legends: Arceus and Pokémon Scarlet and Violet.
 
 These "computer-controlled" programs can be found in our Computer-Control Repo[^3]
 
-**Examples:**
+### Examples:
 
 Automatic detection of shiny encounters using visual recognition of the shiny sparkle animation.
 <img src="images/ShinyHuntAutonomous-Overworld-1.png" width="800">
