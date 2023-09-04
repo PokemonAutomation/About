@@ -1,5 +1,7 @@
 This is the first step in the process towards automation!
 
+First, make sure you have a PC or a high-end Windows tablet available.
+
 ### **Attention: If you do not have a Windows computer...**
 
 Due to lack of developer, our support of Mac and Linux is limited.
