@@ -9,7 +9,7 @@ First, make sure you have a PC or a high-end Windows tablet available.
 Due to lack of developer, our support of Mac and Linux is limited.
 While you can set these programs up on Mac and Linux, you will need to know how to run command-line build scripts.
 
-If you are not willing to do that or you have no idea what this means, then stop. Unfortunately you will not be able to run these programs.
+If you are not willing to do that or you have no idea what this means, then stop. Unfortunately, you will not be able to run these programs.
 
 # (1) Select how far into automation you want to get
 
@@ -23,10 +23,9 @@ Select your level of automation
 | SwSh Day Skipping | Automated Dynamax Adventures! |
 | SwSh Egg Hatchers | Den Hosting with stats!  |
 | Unattended SwSh Shiny Hunts | Autonomous SwSh & BDSP Shiny Hunts! |
-| And more... | And more... |
+| [And more...](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) | [And more...](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) |
 
-> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work.
-If you only have a Switch Lite, consider checking our program list (microcontroller-only[^1] and computer-controlled[^2]) to know what you want to use prior to purchase of the hardware.
+> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work (i.e. Computer control does not work with the Switch Lite). If you only have a Switch Lite, consider checking our program list (microcontroller-only[^1] and computer-controlled[^2]) to know what you want to use prior to purchase of the hardware.
 
 # (2) Basic Automation Hardware
 
@@ -36,7 +35,9 @@ _Buy the following items below._
 
 <img src="https://raw.githubusercontent.com/PokemonAutomation/Microcontroller/master/Wiki/Hardware/images/leonardo.jpg" height="400">
 
-If it doesn't come with the cable, you will need it separately. It is a Micro-USB male to USB-A cable.
+Ensure the Arduino Leonardo comes with headers (the black squares sticking out at the top and bottom of the board, with a holes in them, as seen in the image above).
+
+If it doesn't come with the cable, you will need it separately. You need a Micro-USB male to USB-A cable and it must support data-transfer (not just power delivery).
 
 **Switch Lite users will also need:**
 
@@ -61,18 +62,20 @@ If you are doing Computer Controlled automation, proceed below to buy more hardw
 _Buy the necessary items from A, B, C, & D._
 
 **A.** [Adafruit UART](https://www.adafruit.com/product/954)
->    * ***DO NOT get the Prolific (PLxxxx) controllers.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
+>    * ***DO NOT get the Prolific (PLxxxx) controllers. e.g. PL2303.* They are cheap, do not work, and they are explicitly blocked in the program.** If you buy outside of this link, verify it is not a PLxxxx. If you buy it anyway, you will be wasting your time and money.**YOU HAVE BEEN WARNED!**
+>   * Instead, get boards/modules with the CP210x chipset (e.g. CP2102). The Adafruit UART linked above is one option. See [here](https://github.com/PokemonAutomation/About/blob/master/HardwareExperienced.md#a-serial-uart-board) for examples of other options.
 > <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/uart-adafruit.jpg" height="200">
 
 **B.** [Male-Male Jumper Wires](https://www.amazon.com/dp/B07S1NGQR1)
-> * Note: If purchasing the items from this list, you will need Male to Male Jumper wires. The following link is a search for that [type of item](https://www.amazon.com/jumper-wires-male/s?k=jumper+wires+male+to+male)
-> **WARNING:** If the link is broken, please notify us in our Discord!
+> * Note: If purchasing the items from this list, you will need Male to Male Jumper wires. The following link is a search for that [type of item](https://www.amazon.com/jumper-wires-male/s?k=jumper+wires+male+to+male).
+> **NOTE:** If the link is broken, please notify us in our Discord!
 > 
 > **WARNING:** If you do ***not*** buy Hardware from this list, you will need to evaluate what you purchased for the correct type of Jumper Wire.
 > <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/jumper-cables.jpg" height="200">
 
 **C.** Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
 > * Most cheap capture cards work. Higher end-capture cards may cause issues with color detection.
+> * Ensure the capture card is capable of a video output resolution of 1080p at 30 frames per second.
 > <img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Hardware/images/capture-card-nopt.jpg" height="200">
 
 **D.** HDMI Cables (if you don't own any)

@@ -17,9 +17,9 @@ Select your level of automation
 | Day Skipping | Automated purple beam finder |
 | Egg Hatchers | Den Hosting with stats!  |
 | Unattended Shiny Hunts | Autonomous Shiny Hunts! |
-| And more... | And more... |
+| [And more...](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md) | [And more...](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md) |
 
-> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work.
+> **WARNING:** **Swich Lite** does *not* output video and thus programs requiring video feedback programs will *not* work (i.e. Computer control does not work with the Switch Lite).
 If you only have a Switch Lite, consider checking our program list (microcontroller-only[^1] and computer-controlled[^2]) to know what you want to use prior to purchase of the hardware.
 
 # (2) Microcontroller Hardware
@@ -47,7 +47,7 @@ Select which column best exemplifies your experience and purchase that microcont
 
 ### C. Verify you have the following
 
-1. A Mini-USB male to USB-A male cable or adapter (from step (2)A)
+1. A Mini-USB male (or Micro-USB, depending on your board) to USB-A male cable or adapter (from step (2)A). It must support data-transfer (not just power delivery).
 2. A microcontroller (from step (2)2B)
 3. A USB hub or portable dock (if you have a Switch Lite!)
 
@@ -83,6 +83,7 @@ Purchase *one* of the following Board Connections
 ### C. Capture Card
 
 Purchase a Video capture card ([example](https://www.amazon.com/gp/product/B088HBRM7T))
+* Ensure the capture card is capable of a video output resolution of 1080p at 30 frames per second.
 
 ### D. HDMI Cables
 
