@@ -59,6 +59,8 @@ Choose the link below that aligns with your experience with electronics.
 | I'm impatient and I don't want to think. Just make it work ASAP! | Give me options for me to choose from. |
 | I'm new to GitHub. | I have experience with GitHub. |
 
+Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs
+
 
 ## Credits
 
@@ -73,6 +75,7 @@ Choose the link below that aligns with your experience with electronics.
 - [SakuraKim (SakuraKim#9422)](https://github.com/SakuraKimAce) - R&D, Program+Framework Development.
 - [Fye (Fye#7349)](https://github.com/fyex) - Program Development
 - [kichithewolf (kichithewolf#5141)](https://github.com/kichithewolf) - Program Contributor
+- [Nymphea](https://github.com/NympheaR) - Program Contributor
 - [Icaroto (Icaroto#9259)](https://github.com/PhobosLegacy) - Program Contributor
 - [Ryder (_Ryder#0149)](https://github.com/Ensamma) - Documentation and wiki management.
 - [baboul (baboul#7130)](https://github.com/mb-baboul) - Program Contributor
