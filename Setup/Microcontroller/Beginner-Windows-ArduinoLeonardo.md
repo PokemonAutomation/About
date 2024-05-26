@@ -10,7 +10,7 @@
 
 ---
 
-Below you will find information on how to setup and use the hardware you bought in [**Part 1**](/Setup/HardwareNeeded/HardwareBeginner.md).
+Below you will find information on how to setup and use the hardware you bought in [**Part 1**](/Setup/HardwareNeeded/HardwareBeginner.md). On this page, we will learn how to load programs onto the microcontroller; this will be important whether you choose to use the Microcontroller or Computer Control programs.
 
 > As a reminder: the Switch Lite does not output video feedback. It will not work for programs requiring video feedback.
 
@@ -42,7 +42,7 @@ You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the ve
 
 ## Step 4: Generate a .hex file.
 
-1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.
+1. Open the (unzipped) package from previous step and double-click on `HexGenerator-Windows.cmd` to run it.
 2. In the "Board Type" drop-down, change it to "Arduino Leonardo".
 3. In the program list, click on "Turbo A".
 > We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
@@ -57,22 +57,27 @@ After a while, you should get a confirmation box saying it was successful. You s
 
 ## Step 5: Flash the .hex into the Leonardo.
 
-1. Run the QMK Toolbox program that you downloaded earlier.
-2. Open the .hex you generated in the previous step.
+1. Run `qmk_toolbox.exe`, which we downloaded earlier in step 2.
+   - Allow the drivers to install. 
+   - If you don't get a prompt to install drivers. Click `Tools` in the toolbar, then `Install drivers`.
+2. Within QMK toolbox, open the .hex you generated in the previous step.
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
 <img src="images/tutorial-windows-leonardo-2.png" height="600">
 
-5. Plug the Leonardo into your computer. Wait for the drivers to install.
+5. Plug the Leonardo into your computer.
+
+<img src="images/arduino-to-laptop.jpg" height="450">
+
 6. Press the reset button.
 
-<img src="images/tutorial-windows-leonardo-3.jpg" height="400">
+<img src="images/tutorial-windows-leonardo-3.jpg" height="300">
 
 The QMK program will now flash the program to the Leonardo and show a bunch of logging.
 Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds before turning off.
 
-<img src="images/tutorial-windows-leonardo-4.png" height="600">
+<img src="images/tutorial-windows-leonardo-4.png" height="500">
 
 7. Unplug the Leonardo from your computer.
 
@@ -86,7 +91,9 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 
 <img src="images/grip-menu.jpg" height="400">
 
-3. Plug the Leonardo into your Switch (or the dock that's attached to it).
+3. Plug the Leonardo into your Switch's dock.
+
+<img src="images/arduino-to-Switch.jpg" height="400">
 
 The program should now begin running. It will flash its lights for a few seconds, then it will connect to the Switch and navigate its way back into the game. After a brief pause, it will start mashing A.
 
