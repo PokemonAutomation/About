@@ -25,8 +25,9 @@ The way we do it is by using a serial connection[^1] to connect the microcontrol
 Before you begin, make sure you meet all of the following requirements:
 
 1. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
-      * ***Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.***
+   - Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.
 2. You have a working microcontroller setup and you know how to run microcontroller programs. (See [STEP 3]((/Setup/Microcontroller/Microcontroller-Beginner.md)))
+   - **Do NOT skip the Microcontroller tutorial**, even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.
 3. You have a computer running 64-bit Windows, and it is Windows 10 or later. 
       * As of this writing, no platforms other than 64-bit Windows are supported.
 4. Your computer must be sufficiently powerful:
@@ -232,16 +233,22 @@ You will notice that the programs are color-coded:
 - **Green:** Program uses video feedback and requires video capture. It can run on all devices (including Arduino Uno R3).
 - **Purple:** Program uses video feedback and requires video capture. It cannot run on the Arduino Uno R3.
 
+Program List: https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md
+
 ## Next Steps
 
 None. You're done!
-
-- [Program List](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)
 
 <hr> 
 
 
 ## Notes
+
+### The application can connect to the microcontroller programs.
+
+This tutorial assumes that the device is running PABotBase. In reality the application will still recognize any of the [microcontroller programs](https://github.com/PokemonAutomation/Microcontroller) running on the device provided that the protocol versions are compatible.
+
+PABotBase is the only program that will accept commands over serial, so you will not be able to control the other programs. However, logging from the program will appear in the output window.
 
 ### Programs do not always need to start in the grip menu.
 
