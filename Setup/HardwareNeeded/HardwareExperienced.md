@@ -28,7 +28,7 @@ Next, we'll go over alternate hardware configurations.
 ## Additional Hardware for Computer Control Automation
 
 ### i. 64-bit Windows Computer
-- Computer needs to run 64-bit Windows. 
+- Computer needs to run on **Windows 10 or later**. It also needs to be a 64-bit version of Windows.
 - Minimum of quad core CPU at 3 GHz, no older than 2015. If running 4 Switches, we recommend a modern 8-core computer.
 
 ### ii. Nintendo Switch
@@ -36,6 +36,8 @@ Next, we'll go over alternate hardware configurations.
 
 ### 1. CP210x module - USB to Serial TTL (UART)
 - Ensure it uses CP210x chipset (e.g. CP2102). Make sure it does NOT use the Prolific chipset (e.g. PL2303). 
+
+Refer to the [Beginner guide](./HardwareBeginner.md) for more details.
 
 ### 2. Serial Board Connectors
 
@@ -94,7 +96,7 @@ If you intend to do any serious gameplay from your computer, it is highly recomm
 ## Next Steps
 **Again, ensure that you have read the [beginner hardware page](./HardwareBeginner.md).**
 
-Then, proceed to [Part 2](/Setup/Microcontroller/Microcontroller-Beginner.md) for microcontroller setup. 
+Then, proceed to [Part 2](/Setup/Microcontroller/Microcontroller-Experienced.md) for microcontroller setup. 
 
 **Note:** Microcontroller setup is required even if you plan to use the computer controlled programs.
 

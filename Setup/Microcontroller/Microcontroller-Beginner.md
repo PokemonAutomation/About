@@ -14,7 +14,7 @@ Below you will find information on how to setup and use the hardware you bought 
 
 > As a reminder: the Switch Lite does not output video feedback. It will not work for programs requiring video feedback.
 
-For macOS and Linux users, use this [tutorial](Mac.md). The following steps in this page are for Windows user only.
+For macOS and Linux users, use this [tutorial](Microcontroller-Mac.md). The following steps in this page are for Windows user only.
 
 ## Step 1:  Install WinAVR
 
@@ -83,7 +83,9 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 
 ## Step 6: Setup and run the program!
 
-1. On your Switch, enter the game and navigate to somewhere you want to mash A in front of (such as the digging duo).
+To test that TurboA works:
+
+1. On your Switch, enter the game and navigate to somewhere you want to mash A in front of (such as the digging duo). Alternatively, you can stand in front of the Pokemon center to repeatedly heal.
 
 <img src="images/digging-duo.jpg" height="400">
 

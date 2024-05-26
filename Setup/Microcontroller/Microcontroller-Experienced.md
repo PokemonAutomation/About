@@ -10,30 +10,33 @@ Make sure you have the hardware from [Part 1](/Setup/HardwareNeeded/HardwareExpe
 
 ## Step 1: Install WinAVR
 
-- Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
-- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
+Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
+
+Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 
 ## Step 2: Download the program to flash the microcontroller
 
 ### If you have the Arduino Leonardo or Pro Micro
 
-- Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
-- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
+Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+
+Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 
 ### If you have the Teensy 2.0 or Teensy++ 2.0 
 
-- Download [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
+Download [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
-- Direct download link: https://www.pjrc.com/teensy/teensy.exe
+Direct download link: https://www.pjrc.com/teensy/teensy.exe
 
 ## Step 3: Download the Arduino Programs
 
 Download the latest version of our Arduino programs from [here](https://github.com/PokemonAutomation/Microcontroller/releases).
-- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
+
+Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 
 ## Step 4: Generate a .hex file.
 
-- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
+Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 - Run `HexGenerator-Windows.cmd` from the unzipped Arduino programs folder. Set the program to "Turbo A".
 - However, in the "Board Type" drop-down, change it the type of board you have (e.g. "Pro Micro" or "Teensy 2.0/++2.0").
 - Click on "Save and generate .hex file!".
@@ -89,7 +92,13 @@ At this point, two green arrows should show up in Teensy Loader.
 
 ## Step 6: Setup and run the program!
 
-- refer to the [Beginner guide](./Microcontroller-Beginner.md)
+To test that TurboA works:
+- On your Switch, enter the game and navigate to somewhere you want to mash A in front of
+- Navigate to the grip menu without closing the game. 
+- Plug the Leonardo into your Switch's dock.
+- The program should now begin running.
+
+Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 
 ## Other Programs
 
