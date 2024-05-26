@@ -4,7 +4,7 @@
 | --- |
 | [Introduction](/README.md)|
 | **Part 1:** [Hardware needed](/Setup/HardwareNeeded/HardwareBeginner.md)|
-| **Part 2:** [Microcontroller](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md)(this page)|
+| **Part 2:** [Microcontroller](/Setup/Microcontroller/Microcontroller-Beginner.md) (this page)|
 | **Part 3:** [Computer control](/Setup/ComputerControl/Beginner-Windows.md)|
 |Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs|
 

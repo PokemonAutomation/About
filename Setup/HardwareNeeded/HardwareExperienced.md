@@ -94,7 +94,7 @@ If you intend to do any serious gameplay from your computer, it is highly recomm
 ## Next Steps
 **Again, ensure that you have read the [beginner hardware page](./HardwareBeginner.md).**
 
-Then, proceed to [Part 2](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md) for microcontroller setup. 
+Then, proceed to [Part 2](/Setup/Microcontroller/Microcontroller-Beginner.md) for microcontroller setup. 
 
 **Note:** Microcontroller setup is required even if you plan to use the computer controlled programs.
 
