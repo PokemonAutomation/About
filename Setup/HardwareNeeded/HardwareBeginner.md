@@ -74,7 +74,7 @@ For Computer control automation, you will also need the following:
 
 ### i. 64-bit Windows Computer
 
-- Your computer needs to run a 64-bit version of Windows. If you have a modern computer with Windows 10 or 11, your version of Windows is almost certainly 64-bit.
+- Your computer needs to run on **Windows 10 or later**. It also needs to be a 64-bit version of Windows. If you have a modern computer with Windows 10 or 11, your version of Windows is almost certainly 64-bit.
 - The automation programs do use computer vision do read the Nintendo Switch video output. So, the computer needs to be moderately powerful. 
 - Recommended minimum is a computer with a quad core CPU at 3 GHz, no older than 2015. If you intend to control more than 1 switch, you will need a more powerful CPU with more cores. If you want to run 4 Switches all with feedback, we recommend a modern 8-core computer.
 
@@ -94,7 +94,8 @@ For Computer control automation, you will also need the following:
   - https://www.adafruit.com/product/954
   - https://www.digikey.com/en/products/detail/adafruit-industries-llc/954/7064488
   - https://www.amazon.com/dp/B00DJUHGHI/
-- Easiest and most straightforward option. We recommend this if available in your region.
+- Easiest and most straightforward option. 
+- We recommend this if available in your region. If you can't find this **exact** product, I recommend looking at Option 2.
 - WARNING: **DO NOT get cables with the Prolific controllers. e.g. PL2303 or any other model number.** They are cheap, do not work, and they are explicitly blocked in the program. **They often look deceptively similar to the Adafruit UART, but they are not the same.** If you buy outside of this link, verify it does not use PL controllers. If you buy it anyway, you will be wasting your time and money. **YOU HAVE BEEN WARNED!**
 - Ensure it uses CP210x chipset (e.g. CP2102). So, if the product page doesn’t mention CP210x or CP2102, then don’t buy it unless you know what you’re doing.
 
