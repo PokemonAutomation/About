@@ -5,7 +5,7 @@
 | [Introduction](/README.md)|
 | **Part 1:** [Hardware needed](/Setup/HardwareNeeded/HardwareBeginner.md)|
 | **Part 2:** [Microcontroller](/Setup/Microcontroller/Microcontroller-Beginner.md) (this page)|
-| **Part 3:** [Computer control](/Setup/ComputerControl/Beginner-Windows.md)|
+| **Part 3:** [Computer control](/Setup/ComputerControl/ComputerControl-Beginner.md)|
 |Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs|
 
 ---
@@ -118,7 +118,7 @@ Congrats! You've learned how to automate!
 
 <hr>
 
-## If you are doing Computer Controlled Automation, your next step is [here](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/Beginner-Windows.md)
+## If you are doing Computer Controlled Automation, your next step is [here](/Setup/ComputerControl/ComputerControl-Beginner.md)
 
 The next step will teach you how to put together and use the Computer Controlled hardware.
 
