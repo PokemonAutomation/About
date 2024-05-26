@@ -106,7 +106,7 @@ The program should now begin running. It will flash its lights for a few seconds
 
 You now know how to run TurboA - the most basic of the programs. You can choose any of the other programs and repeat steps 5-7.
 
-- [Program List](/Wiki/Programs/README.md)
+- [Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
 You can find the manual for a program by clicking on the "Online Documentation" link.

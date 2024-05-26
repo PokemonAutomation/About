@@ -1,55 +1,53 @@
-# Windows Tutorial - Pro Micro
+# **Part 2:** Microcontroller setup - experienced users
 
-This section will walk you through the entire process of setting up your Pro Micro on a Windows computer.
+If you're reading this page, we assume you are a user that is experienced with microcontrollers.
 
-The Pro Micro board is just as capable as the Teensy 2.0, but at a much lower cost. The catch is that the setup is more complicated and annoying.
+**First, read the [beginner guide to microcontroller setup](./Microcontroller-Beginner.md) to understand how to flash programs onto the microcontroller.** This page only provides supplementary information to the beginner guide.
 
+## Step 0: Acquire the Hardware
 
+Make sure you have the hardware from [Part 1](/Setup/HardwareNeeded/HardwareExperienced.md)
 
-## Step 1: Acquire the Hardware
+## Step 1: Install WinAVR
 
-Make sure you have the hardware:
+- Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
+- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
 
-- [Hardware - Pro Micro](../Hardware/ProMicro.md)
+## Step 2: Download the program to flash the microcontroller
 
-## Step 2: Install WinAVR
+### If you have the Arduino Leonardo or Pro Micro
 
-Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
+- Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
 
-It is strongly recommended to install it in the default directory (`C:/WinAVR-20100110`).
+### If you have the Teensy 2.0 or Teensy++ 2.0 
 
-## Step 3: Download QMK Toolbox
+- Download [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
-Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+- Direct download link: https://www.pjrc.com/teensy/teensy.exe
 
-You want the file `qmk_toolbox.exe`.
-
-## Step 4: Download the Arduino Programs
+## Step 3: Download the Arduino Programs
 
 Download the latest version of our Arduino programs from [here](https://github.com/PokemonAutomation/Microcontroller/releases).
+- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
 
-(The link should look like something like `PA-NativePrograms-0.x.x-xxxxxxxx.zip`)
+## Step 4: Generate a .hex file.
 
-If you get a virus or malware warning, ignore it. These are known false positives. If you don't trust us, the [source code is here](https://github.com/PokemonAutomation/Arduino-Source/tree/main/HexGenerator).
-
-Once you have downloaded the package, unzip to somewhere you can access later. Do not put it on Microsoft OneDrive.
-
-## Step 5: Generate a .hex file.
-
-1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.
-2. In the "Board Type" drop-down, change it to "Pro Micro" depending on which board you have.
-3. In the program list, click on "Turbo A".
-> We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
-
-<img src="images/tutorial-windows-pro-micro-0.png" height="400">
-
-4. Click on "Save and generate .hex file!".
-
-After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ProMicro.hex` in the folder of the programs.
+- refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details
+- Run `HexGenerator-Windows.cmd` from the unzipped Arduino programs folder. Set the program to "Turbo A".
+- However, in the "Board Type" drop-down, change it the type of board you have (e.g. "Pro Micro" or "Teensy 2.0/++2.0").
+- Click on "Save and generate .hex file!".
+- If successful, You should now see a file `TurboA-<Board-Type>.hex` in the folder of the programs (e.g. `TurboA-ProMicro.hex`).
 
 <img src="images/tutorial-windows-pro-micro-1.png" height="400">
 
-## Step 6: Flash the .hex into the Pro Micro.
+## Step 5: Flash the .hex onto the microcontroller.
+
+### If you have the Arduino Leonardo
+
+- refer to the [Beginner guide](./Microcontroller-Beginner.md)
+
+### If you have the Pro Micro
 
 1. Run the QMK Toolbox program that you downloaded earlier.
 2. Open the .hex you generated in the previous step.
@@ -58,7 +56,7 @@ After a while, you should get a confirmation box saying it was successful. You s
 
 <img src="images/tutorial-windows-pro-micro-2.png" height="600">
 
-5. Plug the Pro Micro into your computer. Wait for the drivers to install.
+5. Plug the Pro Micro into your computer.
 6. Short the GND and RST holes. (use tweezers)
 
 <img src="images/tutorial-windows-pro-micro-3.jpg" height="600">
@@ -69,37 +67,42 @@ The QMK program will now flash the program to the Pro Micro and show a bunch of 
 
 7. Unplug the Pro Micro from your computer.
 
-## Step 7: Setup and run the program!
+### If you have the Teensy 2.0 or 2.0++
 
-1. On your Switch, enter the game and navigate to somewhere you want to mash A in front of (such as the digging duo).
+1. Run the Teensy Loader program that you downloaded earlier.
+2. Click the purple file icon and browse for the .hex that was created in the previous step.
 
-<img src="images/digging-duo.jpg" height="400">
+<img src="images/tutorial-windows-teensy-2.png">
 
-2. Navigate to the grip menu without closing the game. This disconnects all controllers from the Switch so that the Pro Micro can take over.
+3. Plug the Teensy into your computer.
+4. Press the white button on the Teensy. You may need to wait for Windows to install drivers.
 
-<img src="images/grip-menu.jpg" height="400">
+At this point, two green arrows should show up in Teensy Loader.
 
-3. Plug the Pro Micro into your Switch (or the dock that's attached to it).
+<img src="images/tutorial-windows-teensy-3.png">
 
-The program should now begin running. It will flash its lights for a few seconds, then it will connect to the Switch and navigate its way back into the game. After a brief pause, it will start mashing A.
+5. Click the left arrow. This flashes the program into the Teensy.
 
-**Usage Notes:**
+<img src="images/tutorial-windows-teensy-4.png">
 
-- To stop the program, simply unplug the Pro Micro at any time.
-- Do not change video output or mess with the HDMI. These can cause the program to Switch to freeze for multiple seconds and break the program. If you want turn off the TV, do it *before* you start the program.
+6. Unplug the Teensy from your computer.
+
+## Step 6: Setup and run the program!
+
+- refer to the [Beginner guide](./Microcontroller-Beginner.md)
 
 ## Other Programs
 
 You now know how to run TurboA - the most basic of the programs. You can choose any of the other programs and repeat steps 5-7.
 
-- [Program List](/Wiki/Programs/README.md)
+- [Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
 You can find the manual for a program by clicking on the "Online Documentation" link.
 
 ## Computer-Controlled Programs
 
-Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
+Now that you are done with the Microcontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
 
 <hr>
 

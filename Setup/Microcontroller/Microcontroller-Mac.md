@@ -121,7 +121,7 @@ The program should now begin running. It will flash its light for a few seconds,
 You now know how to run TurboA - the most basic of the microcontroller-only programs.
 You can choose any of the other microcontroller-only programs stored in `NativePrograms` folder and repeat steps 4-6.
 
-- [Program List](/Wiki/Programs/README.md)
+- [Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
 
