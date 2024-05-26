@@ -1,10 +1,20 @@
-# PART 3
+# **Part 2:** Microcontroller setup
 
-This is the third step in the process towards automation! Below you will find information on how to setup and use the hardware you bought in **PART 2**.
+| Automation Set-up Guide for Beginners |
+| --- |
+| [Introduction](/README.md)|
+| **Part 1:** [Hardware needed](/Setup/HardwareNeeded/HardwareBeginner.md)|
+| **Part 2:** [Microcontroller](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md)(this page)|
+| **Part 3:** [Computer control](/Setup/ComputerControl/Beginner-Windows.md)|
+|Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs|
+
+---
+
+Below you will find information on how to setup and use the hardware you bought in [**Part 1**](/Setup/HardwareNeeded/HardwareBeginner.md).
 
 > As a reminder: the Switch Lite does not output video feedback. It will not work for programs requiring video feedback.
 
-For macOS and Linux users, use this [tutorial](../Tutorial/Tutorial.md). The following steps in this page are for Windows user only.
+For macOS and Linux users, use this [tutorial](Mac.md). The following steps in this page are for Windows user only.
 
 ## Step 1:  Install WinAVR
 

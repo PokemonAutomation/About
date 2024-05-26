@@ -1,16 +1,15 @@
-# **Step 1:** List of Hardware needed
+# **Part 1:** List of Hardware needed
 
 | Automation Set-up Guide for Beginners |
 | --- |
 | [Introduction](/README.md)|
-| **Step 1:** [Hardware needed](/Setup/HardwareNeeded/HardwareBeginner.md) (this page)|
-| **Step 2:** [Microcontroller](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md)|
-| **Step 3:** [Computer control](/Setup/ComputerControl/Beginner-Windows.md)|
+| **Part 1:** [Hardware needed](/Setup/HardwareNeeded/HardwareBeginner.md) (this page)|
+| **Part 2:** [Microcontroller](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md)|
+| **Part 3:** [Computer control](/Setup/ComputerControl/Beginner-Windows.md)|
 |Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs|
 
----
 
-This is the first step in the process towards automation!
+---
 
 ### **Attention: If you do not have a Windows computer...**
 
@@ -69,7 +68,7 @@ For both Microcontroller and Computer control automation, you will need the foll
 
 ## (3) Additional Hardware for Computer Control Automation
 
-If you are only doing Microcontroller Automation, skip this section and proceed to [step 2](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md).
+If you are only doing Microcontroller Automation, skip this section and proceed to [Part 2](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md).
 
 For Computer control automation, you will also need the following:
 
@@ -140,7 +139,7 @@ For Computer control automation, you will also need the following:
 
 
 ## Next Steps
-Proceed to [step 2](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md) for microcontroller setup. 
+Proceed to [Part 2](/Setup/Microcontroller/Beginner-Windows-ArduinoLeonardo.md) for microcontroller setup. 
 
 **Note:** Microcontroller setup is required even if you plan to use the computer controlled programs.
 
