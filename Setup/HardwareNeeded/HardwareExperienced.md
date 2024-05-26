@@ -8,7 +8,7 @@ Next, we'll go over alternate hardware configurations.
 
 ## Hardware needed for Microcontroller automation
 
-### Microcontroller Hardware
+### 1. Microcontroller Hardware
 
 - For the microcontroller, you have the following options:
   - [Arduino Leonardo](https://www.amazon.com/gp/product/B0786LJQ8K), 
@@ -18,13 +18,26 @@ Next, we'll go over alternate hardware configurations.
 - Teensy 2.0/2.0++ used to be another good option. Unfortunately, it has now been discontinued, so it's hard to find. However, it can still be a good option if you find one for a good price.
 - The Pro Micro is often cheaper per unit than the Arduino Leonardo. It is also smaller. So, it can be good option if you want to automate multiple Nintendo Switches.
 
-### Other hardware needed
-- USB A to micro USB cable with power delivery
-- Switch Dock, or USB-C hub
+### 2. USB A to micro USB cable
+- Ensure it supports data-transfer (not just power delivery).
+
+### 3. Switch Dock, or USB-C hub
+- If you have a full Nintendo Switch, you may use the official dock it comes with. In fact, the official dock is preferred.
+- USB-C hubs can also work in lieu of a Switch dock, but it can also introduce issues such as problems with power delivery. So, the official switch dock is preferred for most people. If you have a Switch Lite, no official docks are available, so you'll need to get a 3rd party dock of USB hub.
 
 ## Additional Hardware for Computer Control Automation
 
-### Serial Board Connectors
+### i. 64-bit Windows Computer
+- Computer needs to run 64-bit Windows. 
+- Minimum of quad core CPU at 3 GHz, no older than 2015. If running 4 Switches, we recommend a modern 8-core computer.
+
+### ii. Nintendo Switch
+- Nintendo Switch (version 1 or version 2) or Switch OLED is needed. Switch Lite will not work with Computer control programs.
+
+### 1. CP210x module - USB to Serial TTL (UART)
+- Ensure it uses CP210x chipset (e.g. CP2102). Make sure it does NOT use the Prolific chipset (e.g. PL2303). 
+
+### 2. Serial Board Connectors
 
 > There are many ways to set this up with varying cost and difficulty. Here we will present some simple options that do not require soldering. If you are experienced with electronics, feel free to do your own thing.
 
@@ -37,7 +50,7 @@ Next, we'll go over alternate hardware configurations.
 | No soldering. Best for beginners. | Doesn't require soldering. | Requires soldering. Experienced only. |
 | <img src="images/mini-grabber.jpg" height="200"> | <img src="images/hammer-headers.jpg" height="200">  |
 
-### Video Capture card
+### 3. Video Capture card
 **Choose one based on your needs**
 - Capture Card without TV output (Budget buy) ([example](https://www.amazon.com/dp/B097R3PB36))
   - The cheapest ones can be less than $10. However, they have no TV output, are limited to USB 2.0 bandwidth, and may have video quality issues.
@@ -75,11 +88,8 @@ Pass-Through cards are generally more expensive, but they have the lowest latenc
 
 If you intend to do any serious gameplay from your computer, it is highly recommended to get a pass-through card even if you don't intend to display to a TV. Loop-out cards and cards without TV output have a high enough latency that it may be difficult to play on the computer.
 
-### Other hardware needed
-- Computer running 64-bit Windows. With a minimum of quad core CPU at 3 GHz, no older than 2015. If running 4 Switches, we recommend a modern 8-core computer.
-- Nintendo Switch (version 1 or version 2) or Switch OLED. Switch Lite will not work.
-- CP210x module - USB to TTL Serial (UART)
-- HDMI cable
+### 4. HDMI Cable
+- Already comes with the Switch, so you may already have this.
 
 ## Next Steps
 **Again, ensure that you have read the [beginner hardware page](./HardwareBeginner.md).**
