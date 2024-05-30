@@ -84,7 +84,9 @@ For Computer control automation, you will also need the following:
 - Note, that you can use regular switch, it does NOT need to be hacked. No modifications of the switch are needed.
 
 
-### 1. CP210x module - USB to Serial TTL (UART)
+### 1. USB to Serial TTL (UART) with CP210x chipset
+
+Get the UART from Option 1 **or** Option 2.
 
 #### Option 1: Adafruit UART
 
@@ -96,19 +98,20 @@ For Computer control automation, you will also need the following:
   - https://www.amazon.com/dp/B00DJUHGHI/
 - Easiest and most straightforward option. 
 - We recommend this if available in your region. If you can't find this **exact** product, I recommend looking at Option 2.
+  - Likewise, if you are able to get this exact product, ignore Option 2 below. You only need one or the other.
 - WARNING: **DO NOT get cables with the Prolific controllers. e.g. PL2303 or any other model number.** They are cheap, do not work, and they are explicitly blocked in the program. **They often look deceptively similar to the Adafruit UART, but they are not the same.** If you buy outside of this link, verify it does not use PL controllers. If you buy it anyway, you will be wasting your time and money. **YOU HAVE BEEN WARNED!**
 - Ensure it uses CP210x chipset (e.g. CP2102). So, if the product page doesn’t mention CP210x or CP2102, then don’t buy it unless you know what you’re doing.
 
 
 #### Option 2: CP210x Board/module
 
-<img src="images/uart-red-cp210x-2.jpg" height="100">
+<img src="images/uart-cp210x-2.jpg" height="100"><img src="images/uart-cp210x-1.png" height="150">
 
-- Example links
-  - https://www.amazon.com/dp/B072K3Z3TL
-  - https://www.amazon.com/gp/product/B07D6LLX19
-  - https://www.amazon.com/gp/product/B07T1XR9FT
+- Example product name:
+  - CP2102 Module USB to TTL
+- Suggested search term: "CP2102"
 - These are another alternative, which are more widely available. They do require some extra wiring, however.
+- **NOTE: You only need one USB to TTL module/cable. If you're able to get the Adafruit UART from option 1 above, you don't need to get another CP210x board/module.**
 - Ensure it uses CP210x chipset (e.g. CP2102). Again, make sure it does NOT use the Prolific chipset (e.g. PL2303). So, if the product page doesn’t mention CP210x or CP2102, then don’t buy it unless you know what you’re doing.
 
 ### 2. Male-Male Jumper Wires
