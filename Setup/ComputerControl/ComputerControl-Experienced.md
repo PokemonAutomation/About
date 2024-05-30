@@ -4,17 +4,22 @@ If you're reading this page, we assume you are a user that is experienced with m
 
 **First, read the [beginner guide to computer control setup](./ComputerControl-Beginner.md) to understand how the Serial programs are setup.** This page only provides supplementary information to the beginner guide.
 
-## Before you Begin
 
-Before you begin, make sure you meet all of the following requirements:
-
-1. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
-2. You have a working microcontroller setup and you know how to run microcontroller programs. (See [STEP 3]((/Setup/Microcontroller/Microcontroller-Experienced.md)))
-   - **Do NOT skip the Microcontroller tutorial**, even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.
-3. You have a computer running 64-bit Windows, and it is Windows 10 or later. 
-4. Your computer must be sufficiently powerful.
+## Summary of steps
+- Step 0: Ensure you have a working microcontroller setup (See [Part 2](/Setup/Microcontroller/Microcontroller-Experienced.md)). Ensure you have a regular Switch (not Switch Lite), and a sufficiently powerful computer running Windows 64-bit Windows 10 or later.
+- Step 1: Hardware Assembly
+- Step 2: Download the SerialPrograms package.
+- Step 3: Flash PABotBase into your Device.
+- Step 4: Setup the serial connection.
+- Step 5: Setup the video capture.
+- Step 6: Use SerialPrograms.
+- Step 7: Setup sound.
+- Step 8: Play around with the keyboard controls.
+- Step 9: Run a program.
 
 Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details.
+
+Below, we highlight the steps that are different from the beginner guide.
 
 ## Step 1: Hardware Assembly
 
@@ -111,27 +116,16 @@ Make the following connections:
 
 <img src="images/teensy2-hammer-1.jpg" height="200"> <img src="images/teensypp2-hammer-1.jpg" height="200">
 
-## Step 2: Download the SerialPrograms package.
-
-Download the latest version of our programs from [here](https://github.com/PokemonAutomation/ComputerControl/releases).
-
-Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details.
-
 ## Step 3: Flash PABotBase into your Device.
 
 The root folder of the SerialPrograms package should have a set of .hex files for each of the different devices.
-
-<img src="images/serial-programs-root.png" height="300">
 
 Flash the appropriate one to your device.
 
 ***If you do not know how to do this, it means you skipped the [Microcontroller tutorial](../Microcontroller/Microcontroller-Experienced.md). STOP right now and go back to the Microcontroller tutorial.***
 
-## Step 4: Setup the serial connection.
 
-1. Turn on your Switch.
-2. Connect your device (Teensy/Pro Micro/Arduino) to the Switch or its dock.
-3. Connect the UART to your computer.
+## Step 4: Setup the serial connection.
 
 **To install SiLabs CP210x on macOS:**
 After unzip the downloaded .zip folder, run SiLabsUSBDriverDisk.dmg inside.
@@ -141,15 +135,6 @@ Go to System Preferences App and choose Security & Privacy.
 You will see some text saying things like "macOS is preventing SiLabs CP210x drivers".
 Click the lock icon in the lower left of the window, enter your password. Then click the button to allow the driver to modify the system.
 After that, you will see the driver GUI shows installation success.
-
-## Step 5: Setup the video capture.
-
-1. Connect an HDMI cable from your Switch dock to your video capture card.
-2. Connect your capture card to your computer.
-
-Here is an example of a setup after steps 4 and 5.
-
-<img src="images/serial-setup-2.jpg" height="600">
 
 ## Step 6: Use SerialPrograms.
 
@@ -171,43 +156,9 @@ If everything worked correctly, it should look like this.
 
 Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details, particularly for troubleshooting.
 
-
-## Step 7: Setup sound.
-
-The sound options are below the Camera options. Most of these options are self-explanatory.
-1. Select the Audio Input that comes from your capture card. If you don't know which one it is, try all of them.
-2. Select the Audio Output for your speakers. This is optional.
-3. The slider is for playback volume. It has no effect on sound recognition. You can even mute it.
-
-<img src="images/serial-programs-audio-1.png" height="500">
-
-Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details
-
-## Step 8: Play around with the keyboard controls.
-
-If you click on the video, it will also activate keyboard controls so you can send button presses to the Switch. This allows you to play your Switch on your computer. Consequently, this also allows full remote access to your Switches.
-
-To view the keyboard/controller mapping, click on "Keyboard Layout" in the bottom left section of the program.
-
-<img src="images/serial-programs-mapping.png" height="400">
-
-Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details
-
-## Step 9: Run a program.
-
-Now that you know how to use the Virtual Console, you can try running some programs on the left panel. 
-
-You will notice that the programs are color-coded. 
-
-Program List: https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md
-
-Refer to the [Beginner guide](./ComputerControl-Beginner.md) for more details.
-
 ## Next Steps
 
 None. You're done!
-
-
 
 
 <hr>

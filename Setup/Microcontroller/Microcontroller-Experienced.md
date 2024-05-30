@@ -4,15 +4,18 @@ If you're reading this page, we assume you are a user that is experienced with m
 
 **First, read the [beginner guide to microcontroller setup](./Microcontroller-Beginner.md) to understand how to flash programs onto the microcontroller.** This page only provides supplementary information to the beginner guide.
 
-## Step 0: Acquire the Hardware
-
-Make sure you have the hardware from [Part 1](/Setup/HardwareNeeded/HardwareExperienced.md)
-
-## Step 1: Install WinAVR
-
-Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
+## Summary of steps
+- Step 0: Acquire the [Hardware](/Setup/HardwareNeeded/HardwareExperienced.md)
+- Step 1: Install WinAVR
+- Step 2: Download the program to flash the microcontroller: QMK Toolbox or Teensy Loader
+- Step 3: Download our Arduino Programs
+- Step 4: Generate a .hex file
+- Step 5: Flash the .hex onto the microcontroller
+- Step 6: Setup and run the program!
 
 Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
+
+Below, we highlight the steps that are different from the beginner guide.
 
 ## Step 2: Download the program to flash the microcontroller
 
@@ -27,22 +30,6 @@ Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
 Download [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
 Direct download link: https://www.pjrc.com/teensy/teensy.exe
-
-## Step 3: Download the Arduino Programs
-
-Download the latest version of our Arduino programs from [here](https://github.com/PokemonAutomation/Microcontroller/releases).
-
-Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
-
-## Step 4: Generate a .hex file.
-
-Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
-- Run `HexGenerator-Windows.cmd` from the unzipped Arduino programs folder. Set the program to "Turbo A".
-- However, in the "Board Type" drop-down, change it the type of board you have (e.g. "Pro Micro" or "Teensy 2.0/++2.0").
-- Click on "Save and generate .hex file!".
-- If successful, You should now see a file `TurboA-<Board-Type>.hex` in the folder of the programs (e.g. `TurboA-ProMicro.hex`).
-
-<img src="images/tutorial-windows-pro-micro-1.png" height="400">
 
 ## Step 5: Flash the .hex onto the microcontroller.
 
@@ -90,28 +77,15 @@ At this point, two green arrows should show up in Teensy Loader.
 
 6. Unplug the Teensy from your computer.
 
-## Step 6: Setup and run the program!
+## If you are only doing Microcontroller Automation, your tutorial ends here!
 
-To test that TurboA works:
-- On your Switch, enter the game and navigate to somewhere you want to mash A in front of
-- Navigate to the grip menu without closing the game. 
-- Plug the Leonardo into your Switch's dock.
-- The program should now begin running.
+Congrats! You've learned how to automate!
 
-Refer to the [Beginner guide](./Microcontroller-Beginner.md) for more details.
+<hr>
 
-## Other Programs
+## If you are doing Computer Controlled Automation, your next step is [here](/Setup/ComputerControl/ComputerControl-Experienced.md)
 
-You now know how to run TurboA - the most basic of the programs. You can choose any of the other programs and repeat steps 5-7.
-
-- [Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
-
-It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
-You can find the manual for a program by clicking on the "Online Documentation" link.
-
-## Computer-Controlled Programs
-
-Now that you are done with the Microcontroller tutorial, you can proceed to the [Computer-Control tutorial](/Setup/ComputerControl/ComputerControl-Experienced.md).
+The next step will teach you how to put together and use the Computer Controlled hardware.
 
 <hr>
 
