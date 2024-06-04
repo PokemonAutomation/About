@@ -24,11 +24,11 @@ Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
 
 ## Step 2: Download QMK Toolbox
 
-Several QMK versions are known to work: 0.1.1, 0.2.2, 0.3.2. Other versions may not work.
+A few QMK versions are known to work. e.g. 0.1.1, 0.2.2, and 0.3.1. Other versions may not work (e.g. 0.3.2 does not work).
 
-Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
+Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases). Ensure you download a version known to work. e.g. 0.3.1.
 
-You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the version number that you choose (e.g. 0.1.1).
+You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the version number that you choose (e.g. 0.3.1).
 
 ## Step 3: Download the Arduino Programs
 
@@ -84,9 +84,14 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 ### Common errors with QMK toolbox
 | Error | Solution |
 | --- | --- |
-| .NET error | First, ensure the drivers are installed (Tools -> Install Drivers). If this fails, try using a different version of QMK toolbox. Try 0.2.2, or 0.3.2, or the latest version. |
-| "Flash complete", but no logging is shown | Unplug and replug the microcontroller into the computer and try flashing again. Try different USB ports |
+| .NET error | First, ensure the drivers are installed (Tools -> Install Drivers). If this fails, try using a different version of QMK toolbox. See below for versions known to work. |
+| "Flash complete", but no logging is shown | Unplug and replug the microcontroller into the computer and try flashing again. Try different USB ports. Try a different version of QMK toolbox. See below for versions known to work. |
 | "COM port not found!" | Same as the issue where you get "Flash complete", but no logging, try unplugging and replugging the microcontroller into the computer and try different USB ports. Also, double check that the USB cable supports data transfer |
+
+**Versions of QMK toolbox known to work:**
+- 0.1.1
+- 0.2.2
+- 0.3.1
 
 If all else fails, you can try flashing the hex file directly with avrdude. See [here](./Microcontroller-Beginner.md#flashing-the-hex-directly-with-avrdude) for instructions.
 
