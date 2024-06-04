@@ -48,11 +48,9 @@ Shiny detection in Pokémon Legends Arceus using audio recognition.
 
 ## Get Me Started!
 
-Interested? This is **PART 1**
-
 Choose the link below that aligns with your experience with electronics.
 
-| [Beginner](HardwareBeginner.md) | [Experienced](HardwareExperienced.md) |
+| [Beginner](./Setup/HardwareNeeded/HardwareBeginner.md) | [Experienced](./Setup/HardwareNeeded/HardwareExperienced.md) |
 | --- | --- |
 | I don't know what a circuit is. | I have a degree in electrical engineering. |
 | I have *not* used a microcontroller before. | I have used a microcontroller before. |
