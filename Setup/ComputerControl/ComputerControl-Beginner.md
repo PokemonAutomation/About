@@ -74,9 +74,7 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
-<img src="../Microcontroller/images/tutorial-windows-leonardo-2.png" height="600">
-
-> Do not install TurboA. Image is an example of what the setup should look like.
+<img src="images/pabotbase-qmk-toolbox.png" height="600">
 
 5. Plug the Leonardo into your computer.
 6. Press the reset button.
@@ -86,7 +84,7 @@ The root folder of the SerialPrograms package should have a set of .hex files fo
 The QMK program will now flash the program to the Leonardo and show a bunch of logging.
 Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds before turning off.
 
-<img src="../Microcontroller/images/tutorial-windows-leonardo-4.png" height="600">
+<img src="images/pabotbase-qmk-flashed.png" height="600">
 
 7. Unplug the Leonardo from your computer.
 
