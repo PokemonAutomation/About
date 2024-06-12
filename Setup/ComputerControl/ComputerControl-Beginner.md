@@ -26,7 +26,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 1. You have a regular Switch (not a Switch Lite) if you want to use programs requiring video feedback.
    - Note that Switch Lite cannot output video. Therefore it cannot run any programs that require video capture. If you wish to pursue this level of automation, it might be worth considering investing in a full Switch.
-2. You have a working microcontroller setup and you know how to run microcontroller programs. (See [STEP 3]((/Setup/Microcontroller/Microcontroller-Beginner.md)))
+2. You have a working microcontroller setup and you know how to run microcontroller programs. (See [Step 2](/Setup/Microcontroller/Microcontroller-Beginner.md))
    - **Do NOT skip the Microcontroller tutorial**, even if you have no intention to run Microcontroller programs. The Microcontroller tutorial provides basic information needed for both Microcontroller and Computer-Control programs.
 3. You have a computer running 64-bit Windows, and it is Windows 10 or later. 
       * As of this writing, no platforms other than 64-bit Windows are supported.
