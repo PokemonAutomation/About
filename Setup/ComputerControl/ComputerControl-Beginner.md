@@ -239,6 +239,18 @@ None. You're done!
 
 <hr> 
 
+## Updating the Computer Control program
+
+This assumes you already have a working Computer Control setup. If not, read the guide from the beginning, starting at [Part 1](/Setup/HardwareNeeded/HardwareBeginner.md).
+
+1. Download the latest Computer Control [release](https://github.com/PokemonAutomation/ComputerControl/releases)
+2. Extract/un-zip the file. 
+3. Run the `SerialPrograms-Windows.cmd` script. You can use it as is. 
+
+Optional: You can move over your `UserSettings` folder from the old program, if you want to. This contains all the old stats and any saved settings.
+
+<hr> 
+
 
 ## Notes
 
