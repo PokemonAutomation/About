@@ -93,6 +93,12 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 - 0.2.2
 - 0.3.1
 
+**General Troubleshooting tips**
+- Try different USB ports.
+- Try a different USB cable (ensure it supports data transfer).
+- Try a different version of QMK toolbox.
+- If using QMK toolbox, ensure all drivers are installed.
+
 If all else fails, you can try flashing the hex file directly with avrdude. See [here](./Microcontroller-Beginner.md#flashing-the-hex-directly-with-avrdude) for instructions.
 
 ## Step 6: Setup and run the program!
