@@ -20,8 +20,10 @@ Warning: if you don't have software development experience and deviate from the 
 This is a program made by Apple for software development. It also comes with basic software tools to build **SerialPrograms**. So it's safe to install it first.
 
 1. Go to Mac App Store App: Click the Apple Logo at the top left of the screen. Click `App Store` to open.
-2. Search for XCode in the searchbar. The app should look like this:   
+2. Search for XCode in the searchbar. The app should look like this:
+
 <img src="images/Mac/xcode.png" alt="A photo of the XCode app" width="202" height="81">
+
 3. Click `Get` to install. This may take a while.
 
 ### Launch Terminal
