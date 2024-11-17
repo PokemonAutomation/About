@@ -10,11 +10,9 @@ You will need to run and debug a script that is no longer supported by us to gen
 
 ## Step 1: Acquire the Hardware
 
-Make sure you have one of the hardware:
-- [Hardware - Arduino Leonardo](../Hardware/ArduinoLeonardo.md)
-- [Hardware - Teensy 2.0 and Teensy++ 2.0](../Hardware/Teensy2.md)
-- [Hardware - Pro Micro](../Hardware/ProMicro.md)
-- [Hardware - Arduino Uno R3](../Hardware/ArduinoUnoR3.md)
+Make sure you have the necessary hardware:
+- [Hardware - Beginner guide](../HardwareNeeded/HardwareBeginner.md)
+- [Hardware - Experienced guide](../HardwareNeeded/HardwareBeginner.md)
 
 ## Step 2: Install Homebrew and AVR
 
@@ -127,7 +125,7 @@ It is important to read the manual for a program before you use it. Each program
 
 ## Computer-Controlled Programs
 
-Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
+Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](../ComputerControl/ComputerControl-Experienced.md) and the [Guide for Installing SerialPrograms on Mac](../ComputerControl/ComputerControl-Mac.md).
 
 <hr>
 
