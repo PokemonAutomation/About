@@ -296,11 +296,11 @@ mkdir -p build_mac; cd build_mac
 
 ### Package updating
 In rare cases when we add new software library dependencies, just follow the guide to install those new libraries.
-If we upgrade our Qt dependency to a higher Qt version, use Homebrew to upgrade it by running
+If we upgrade our Qt dependency to a higher Qt version, use Homebrew to upgrade it by running the following command in Terminal:
+
 ```
 brew upgrade qt6
 ```
-in Terminal.
-
+---------------------
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
