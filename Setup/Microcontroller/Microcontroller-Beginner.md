@@ -16,21 +16,15 @@ Below you will find information on how to setup and use the hardware you bought 
 
 For macOS and Linux users, use this [tutorial](Microcontroller-Mac.md). The following steps in this page are for Windows user only.
 
-## Step 1:  Install WinAVR
+## Step 1: Download QMK Toolbox
 
-Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
+A few QMK versions are known to work. e.g. 0.1.1, 0.2.2, 0.3.1, 0.3.3. Other versions may not work (e.g. 0.3.2 does not work).
 
-> It is strongly recommended to install it in the default directory (`C:/WinAVR-20100110`).
+Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases). Ensure you download a version known to work. e.g. 0.3.3.
 
-## Step 2: Download QMK Toolbox
+You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the version number that you choose (e.g. 0.3.3).
 
-A few QMK versions are known to work. e.g. 0.1.1, 0.2.2, and 0.3.1. Other versions may not work (e.g. 0.3.2 does not work).
-
-Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases). Ensure you download a version known to work. e.g. 0.3.1.
-
-You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the version number that you choose (e.g. 0.3.1).
-
-## Step 3: Download the Arduino Programs
+## Step 2: Download the Arduino Programs
 
 1. Download the latest version of our Arduino programs from [here](https://github.com/PokemonAutomation/Microcontroller/releases).
 
@@ -40,27 +34,12 @@ You want the file `qmk_toolbox.exe`. You'll find it under `Assets`, under the ve
 
 2. Once you have downloaded the package, unzip to somewhere you can access later. Do not put it on Microsoft OneDrive.
 
-## Step 4: Generate a .hex file.
-
-1. Open the (unzipped) package from previous step and double-click on `HexGenerator-Windows.cmd` to run it.
-2. In the "Board Type" drop-down, change it to "Arduino Leonardo".
-3. In the program list, click on "Turbo A".
-> We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
-
-<img src="images/tutorial-windows-leonardo-0.png">
-
-4. Click on "Save and generate .hex file!".
-
-After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ArduinoLeonardo.hex` in the folder of the programs.
-
-<img src="images/tutorial-windows-leonardo-1.png">
-
-## Step 5: Flash the .hex into the Leonardo.
+## Step 3: Flash the .hex into the Leonardo.
 
 1. Run `qmk_toolbox.exe`, which we downloaded earlier in step 2.
    - Allow the drivers to install. 
    - If you don't get a prompt to install drivers. Click `Tools` in the toolbar, then `Install drivers`.
-2. Within QMK toolbox, open the .hex you generated in the previous step.
+2. Within QMK toolbox, open `NintendoSwitch-TurboA-ArduinoLeonardo.hex`, from the folder you unzipped in the previous step.
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
@@ -92,6 +71,7 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 - 0.1.1
 - 0.2.2
 - 0.3.1
+- 0.3.3
 
 **General Troubleshooting tips**
 - Try different USB ports.
@@ -101,7 +81,7 @@ Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds befo
 
 If all else fails, you can try flashing the hex file directly with avrdude. See [here](./Microcontroller-Beginner.md#flashing-the-hex-directly-with-avrdude) for instructions.
 
-## Step 6: Setup and run the program!
+## Step 4: Setup and run the program!
 
 To test that TurboA works:
 
@@ -124,19 +104,10 @@ The program should now begin running. It will flash its lights for a few seconds
 - To stop the program, simply unplug the Leonardo at any time.
 - Do not change video output or mess with the HDMI. These can cause the program to Switch to freeze for multiple seconds and break the program. If you want turn off the TV, do it *before* you start the program.
 
-## Using Other Programs
 
-You now know how to run TurboA - the most basic of the programs. You can choose any of the other programs and repeat steps 5-7.
+## If you are only doing Microcontroller Automation, your next step is [here](/Setup/Microcontroller/Microcontroller-Beginner-MC-only.md)
 
-- [Program List](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/README.md)
-
-It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
-You can find the manual for a program by clicking on the "Online Documentation" link.
-
-
-## If you are only doing Microcontroller Automation, your tutorial ends here!
-
-Congrats! You've learned how to automate!
+Next, you will learn how to run other programs, besides just TurboA.
 
 <hr>
 
