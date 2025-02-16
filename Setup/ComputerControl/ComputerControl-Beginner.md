@@ -222,14 +222,9 @@ The playability of this will depend drastically on the quality of your capture c
 
 Now that you know how to use the Virtual Console, you can try running some programs on the left panel. The first thing that you will notice is that every program is a virtual console!
 
-Most of the current programs are identical to the native ones as they were directly ported from device code to computer. Only this time, you can configure and run them with a few clicks. There is no more need to flash the device every time you change programs!
+Many of the Sword/Shield programs are direct ports of their microcontroller versions to computer control. Only this time, you can configure and run them with a few clicks. There is no more need to flash the device every time you change programs!
 
-You will notice that the programs are color-coded:
-- **Black:** Not a real program.
-- **Blue:** Program does not use video feedback. It can run on all devices (including Arduino Uno R3).
-- **Red:** Program does not use video feedback. It cannot run on the Arduino Uno R3.
-- **Green:** Program uses video feedback and requires video capture. It can run on all devices (including Arduino Uno R3).
-- **Purple:** Program uses video feedback and requires video capture. It cannot run on the Arduino Uno R3.
+You will notice that the programs are color-coded. The meaning of these colors is slated to change in the future. So we will not document them yet.
 
 Program List: https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md
 
