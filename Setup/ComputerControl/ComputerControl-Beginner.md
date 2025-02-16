@@ -212,7 +212,7 @@ To view the keyboard/controller mapping, click on "Keyboard Layout" in the botto
 <img src="images/serial-programs-mapping.png" height="400">
 
 The joystick mappings should be fairly standard for FPS and 3D adventure games. The remaining buttons are somewhat arbitrary and not necessarily intuitive.
-As of this writing, there is no support for changing the key mapping.
+Starting from version 0.51.x, you can change the keyboard mappings in `Nintendo Switch` -> `Framework Settings` -> `Keyboard to Controller Mappings`.
 
 The playability of this will depend drastically on the quality of your capture card. Some capture cards have very low video latency. Other cards may be too slow to play on the computer in real time. Regardless, even if it is slow, you can use the program for remote access to setup and run programs while you are away.
 
