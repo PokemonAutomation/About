@@ -64,21 +64,22 @@ Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs
 
 **Contributors:**
 
-- [Kuroneko (Kuroneko#6019)](https://github.com/Mysticial) - Project founder.
-- [Gin (Gin#2531)](https://github.com/Gin890) - R&D, Program+Framework development, Qt6, audio, and Mac support.
-- [pifopi (pifopi#7834)](https://github.com/pifopi) - R&D, AutoMaxlair, Program+Framework Development.
-- [MrDonders (MrDonders#4095)](https://github.com/ercdndrs) - R&D, AutoMaxlair, pioneer of serial hardware.
-- [Koi (Koi#3088)](https://github.com/Koi-3088) - Discord bot integration.
-- [denvoros (denvoros#0001)](https://github.com/denvoros) - AI R&D, AutoMaxlair, Build scripts, Mac support.
-- [SakuraKim (SakuraKim#9422)](https://github.com/SakuraKimAce) - R&D, Program+Framework Development.
-- [Fye (Fye#7349)](https://github.com/fyex) - Program Development
-- [kichithewolf (kichithewolf#5141)](https://github.com/kichithewolf) - Program Contributor
-- [Nymphea](https://github.com/NympheaR) - Program Contributor
-- [Icaroto (Icaroto#9259)](https://github.com/PhobosLegacy) - Program Contributor
-- [Ryder (_Ryder#0149)](https://github.com/Ensamma) - Documentation and wiki management.
-- [baboul (baboul#7130)](https://github.com/mb-baboul) - Program Contributor
-- [joyrida (JoyRida#6391)](https://github.com/RickyGrassmuck) - Build scripts and Mac support.
-- Ptamalion (Ptamalion#1167) - Program Contributor and Qt6 support.
+- [Kuroneko (mysticial)](https://github.com/Mysticial) - Project founder.
+- [Gin (gin2531)](https://github.com/Gin890) - R&D, Program+Framework development, Qt6, audio, and Mac support.
+- [pifopi (pifopi)](https://github.com/pifopi) - R&D, AutoMaxlair, Program+Framework Development.
+- [MrDonders (conkelders)](https://github.com/ercdndrs) - R&D, AutoMaxlair, pioneer of serial hardware.
+- [denvoros (denvoros)](https://github.com/denvoros) - AI R&D, AutoMaxlair, Build scripts, Mac support.
+- [jw (jw2219)](https://github.com/jw098) - R&D, Program Development.
+- [kichithewolf (kichithewolf)](https://github.com/kichithewolf) - R&D, Program Development.
+- [SakuraKim (sakurakim9422)](https://github.com/SakuraKimAce) - R&D, Program+Framework Development.
+- [Koi (koiffeinated)](https://github.com/Koi-3088) - Discord bot integration.
+- [Fye (fyelice)](https://github.com/fyex) - Program Development
+- [Nymphea (aozawa)](https://github.com/NympheaR) - Program Contributor
+- [Icaroto (icaroto)](https://github.com/PhobosLegacy) - Program Contributor
+- [Ryder (_ryder)](https://github.com/Ensamma) - Documentation and wiki management.
+- [baboul (baboul29)](https://github.com/mb-baboul) - Program Contributor
+- [joyrida (joyrida)](https://github.com/RickyGrassmuck) - Build scripts and Mac support.
+- Ptamalion (ptamalion) - Program Contributor and Qt6 support.
 - b0bness (b0bness#9479) - Program Contributor
 
 And countless users and testers in the Pokémon Automation Discord Server.
