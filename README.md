@@ -58,7 +58,7 @@ We currently have automation for the following games/platforms:
 
 ## Get Me Started!
 
-- [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/Wiki2-beta/Wiki/SetupGuide/README.md)
+- [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/SetupGuide/README.md)
 
 Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs **(Out-of-date - need to update for ESP32)**
 
@@ -71,7 +71,7 @@ MC automation has neither been developed nor maintained in years. So it's time t
 
 Nevertheless, the Microcontroller wiki can be found here:
 - [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
-- [Microcontroller Setup Gude](https://github.com/PokemonAutomation/Microcontroller/blob/Wiki2-beta/Wiki/SetupGuide/README.md)
+- [Microcontroller Setup Gude](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/SetupGuide/README.md)
 
 
 ## Credits
