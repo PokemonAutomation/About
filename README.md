@@ -16,48 +16,62 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 ### How does this work?
 
-The Nintendo Switch allows the use of 3rd party wired controllers. But instead of using an actual game controller, we emulate a controller using a microcontroller such as an Arduino. This microcontroller can then be programmed to send button presses to the Switch. Once programmed, all that is needed is to plug the microcontroller into your Switch's USB port just like any handheld controller and watch it do its thing.
+Video capture and custom game controller!
 
-This approach is not new. brianuuuSonic's AutoController[^1] was (probably?) the first to do this for Switch-based Pokémon games.
+By capturing the video and audio using a capture card, the computer can see (and hear) everything that's happening on the Switch.
 
-Our version of these "microcontroller-only" programs can be found in the Microcontroller Repo[^2]
+To control the Switch, we create our own 3rd party gamepad using a programmable microcontroller:
+- Using an Arduino, we can make a wired pro controller using the USB gamepad protocol.
+- Using an ESP32 microcontroller, we can make a joycon using the Bluetooth gamepad protocol.
 
-<img src="images/basic-setup.jpg" width="400"> <img src="images/ShinyHuntUnattended-Regi-0.png" width="500">
+These custom controllers behave just like regular controllers. But rather than having buttons and joysticks that are pressed by a human, they are controlled electronically by a computer.
 
-### What do we do differently?
+Since the computer can both see and control the Switch, it can take the place of a human player. But unlike a human, a computer doesn't eat or sleep. And it never gets tired or bored. So you can run it 24/7 for months on end hunting shinies for you!
 
-While most automation is entirely Arduino or microcontroller based, we have taken it to a new level.
-We connect the microcontroller and a capture card to a PC.
-Utilizing the full computing potential of a modern computer, our PC programs perform visual and audio recognition from the Switch stream and make gameplay decisions the same way a human player would.
-
-This has allowed us to automate every single shiny hunt in Pokémon Sword and Shield as well as a good portion of the newer games: Pokémon Brilliant Diamond and Shining Pearl, Pokémon Legends: Arceus and Pokémon Scarlet and Violet.
-
-These "computer-controlled" programs can be found in our Computer-Control Repo[^3]
+<img src="Images/ControllerSetup-ESP32-WROOM-Setup.jpg" height="300"> <img src="Images/ShinyHuntUnattended-Regi-0.png" height="300">
 
 ### Examples:
 
 Automatic detection of shiny encounters using visual recognition of the shiny sparkle animation.
-<img src="images/ShinyHuntAutonomous-Overworld-1.png" width="800">
+<img src="Images/ShinyHuntAutonomous-Overworld-1.png" width="800">
 
 Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
-<img src="images/MaxLair-0.png" width="800">
+<img src="Images/MaxLair-0.png" width="800">
 
 Shiny detection in Pokémon Legends Arceus using audio recognition.
-<img src="images/PLA-ShinyDetection-0.png" width="800">
+<img src="Images/PLA-ShinyDetection-0.png" width="800">
+
+
+## What games to you automate?
+
+See our [full program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)!
+
+We currently have automation for the following games/platforms:
+  - [Nintendo Switch](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#nintendo-switch)
+  - [Pokémon Home](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-home)
+  - [Pokémon Sword/Shield](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-swordshield)
+  - [Pokémon Brilliant Diamond/Shining Pearl](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-brilliant-diamondshining-pearl)
+  - [Pokémon Legends Arceus](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-legends-arceus)
+  - [Pokémon Scarlet/Violet](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-scarlet-and-violet)
+  - [Zelda: Tears of the Kingdom](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#zelda-tears-of-the-kingdom)
 
 
 ## Get Me Started!
 
-Choose the link below that aligns with your experience with electronics.
+- [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/Wiki2-beta/Wiki/SetupGuide/README.md)
 
-| [Beginner](./Setup/HardwareNeeded/HardwareBeginner.md) | [Experienced](./Setup/HardwareNeeded/HardwareExperienced.md) |
-| --- | --- |
-| I don't know what a circuit is. | I have a degree in electrical engineering. |
-| I have *not* used a microcontroller before. | I have used a microcontroller before. |
-| I'm impatient and I don't want to think. Just make it work ASAP! | Give me options for me to choose from. |
-| I'm new to GitHub. | I have experience with GitHub. |
+Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs **(Out-of-date - need to update for ESP32)**
 
-Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs
+
+## But what about your old setup?
+
+If you are asking about our Microcontroller (MC) automation. It has officially been deprecated now.
+
+MC automation has neither been developed nor maintained in years. So it's time to close to the door on it.
+
+Nevertheless, the Microcontroller wiki can be found here:
+- [Microcontroller Repo](https://github.com/PokemonAutomation/Microcontroller)
+- [Microcontroller Setup Gude](https://github.com/PokemonAutomation/Microcontroller/blob/Wiki2-beta/Wiki/SetupGuide/README.md)
 
 
 ## Credits
@@ -85,6 +99,7 @@ Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs
 And countless users and testers in the Pokémon Automation Discord Server.
 
 
+
 ## Supporting Us
 
 As of this writing, we do not take donations of any kind for this project. The only support we request is by sharing our work with your friends if you have enjoyed using it.
@@ -104,6 +119,3 @@ For all other uses, please reach out to the administrators of the Pokémon Autom
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
 
-[^1]: https://github.com/brianuuu/AutoController_swsh
-[^2]: https://github.com/PokemonAutomation/Microcontroller
-[^3]: https://github.com/PokemonAutomation/ComputerControl
