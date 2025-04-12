@@ -60,7 +60,9 @@ We currently have automation for the following games/platforms:
 
 - [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/SetupGuide/README.md)
 
-Video - Guide to Pokemon Automation set-up: https://youtu.be/DFXZzWkOEMs **(Out-of-date - need to update for ESP32)**
+Video tutorial: Pokemon Automation wireless set-up: https://youtu.be/YzGyQQOGjl8 **(recommended for new-comers)**
+
+Video tutorial: Pokemon Automation wired set-up: https://youtu.be/DFXZzWkOEMs
 
 
 ## But what about your old setup?
