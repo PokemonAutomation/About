@@ -16,9 +16,9 @@ With automation, it becomes possible to play 24/7 and simultaneously on multiple
 
 ### How does this work?
 
-Video capture and custom game controller!
+A computer with video capture and a custom game controller!
 
-By capturing the video and audio using a capture card, the computer can see (and hear) everything that's happening on the Switch.
+By capturing the video and audio using a capture card, a computer can see (and hear) everything that's happening on the Switch.
 
 To control the Switch, we create our own 3rd party gamepad using a programmable microcontroller:
 - Using an Arduino, we can make a wired pro controller using the USB gamepad protocol.
@@ -42,7 +42,7 @@ Shiny detection in Pokémon Legends Arceus using audio recognition.
 <img src="Images/PLA-ShinyDetection-0.png" width="800">
 
 
-## What games to you automate?
+## What games do you automate?
 
 See our [full program list](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md)!
 
