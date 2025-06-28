@@ -28,18 +28,18 @@ These custom controllers behave just like regular controllers. But rather than h
 
 Since the computer can both see and control the Switch, it can take the place of a human player. But unlike a human, a computer doesn't eat or sleep. And it never gets tired or bored. So you can run it 24/7 for months on end hunting shinies for you!
 
-<img src="Images/ControllerSetup-ESP32-WROOM-Setup.jpg" height="300"> <img src="Images/ShinyHuntUnattended-Regi-0.png" height="300">
+<img src="Images/ControllerSetup-ESP32-WROOM-Setup.jpg" height="300"> <img src="Images/ShinyHuntUnattended-Regi-0.jpg" height="300">
 
 ### Examples:
 
 Automatic detection of shiny encounters using visual recognition of the shiny sparkle animation.
-<img src="Images/ShinyHuntAutonomous-Overworld-1.png" width="800">
+<img src="Images/ShinyHuntAutonomous-Overworld-1.jpg" width="800">
 
 Automatic playthrough of Dynamax Adventures to shiny-hunt legendaries.
-<img src="Images/MaxLair-0.png" width="800">
+<img src="Images/MaxLair-0.jpg" width="800">
 
 Shiny detection in Pokémon Legends Arceus using audio recognition.
-<img src="Images/PLA-ShinyDetection-0.png" width="800">
+<img src="Images/PLA-ShinyDetection-0.jpg" width="800">
 
 
 ## What games do you automate?
