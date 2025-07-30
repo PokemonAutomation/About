@@ -49,6 +49,7 @@ See our [full program list](https://github.com/PokemonAutomation/ComputerControl
 We currently have automation for the following games/platforms:
   - [Nintendo Switch](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Home](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-home)
+  - [Pokémon Let's Go Pikachu/Eevee](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-lets-go-pikachueevee-lgpe)
   - [Pokémon Sword/Shield](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-swordshield)
   - [Pokémon Brilliant Diamond/Shining Pearl](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-brilliant-diamondshining-pearl)
   - [Pokémon Legends Arceus](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-legends-arceus)
@@ -60,9 +61,11 @@ We currently have automation for the following games/platforms:
 
 - [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/SetupGuide/README.md)
 
-Video tutorial: Pokemon Automation wireless set-up: https://youtu.be/YzGyQQOGjl8 **(recommended for new-comers)**
+**Video Tutorials:**
+- **Wireless:** https://youtu.be/YzGyQQOGjl8 (Switch 1 only)
+- **Legacy Wired:** https://youtu.be/DFXZzWkOEMs (deprecated)
 
-Video tutorial: Pokemon Automation wired set-up: https://youtu.be/DFXZzWkOEMs
+
 
 
 ## But what about your old setup?
