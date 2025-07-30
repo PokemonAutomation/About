@@ -88,7 +88,7 @@ Nevertheless, the Microcontroller wiki can be found here:
 - [pifopi (pifopi)](https://github.com/pifopi) - R&D, AutoMaxlair, Program+Framework Development.
 - [MrDonders (conkelders)](https://github.com/ercdndrs) - R&D, AutoMaxlair, pioneer of serial hardware.
 - [denvoros (denvoros)](https://github.com/denvoros) - AI R&D, AutoMaxlair, Build scripts, Mac support.
-- [jw (jw2219)](https://github.com/jw098) - R&D, Program Development.
+- [jw (jw2219)](https://github.com/jw098) - R&D, controllers, Program Development.
 - [kichithewolf (kichithewolf)](https://github.com/kichithewolf) - R&D, Program Development.
 - [SakuraKim (sakurakim9422)](https://github.com/SakuraKimAce) - R&D, Program+Framework Development.
 - [Koi (koiffeinated)](https://github.com/Koi-3088) - Discord bot integration.
