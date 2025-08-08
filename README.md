@@ -62,8 +62,9 @@ We currently have automation for the following games/platforms:
 - [Computer Control Setup Gude](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/SetupGuide/README.md)
 
 **Video Tutorials:**
-- **Wireless:** https://youtu.be/YzGyQQOGjl8 (Switch 1 only)
-- **Legacy Wired:** https://youtu.be/DFXZzWkOEMs (deprecated)
+- **Wired (ESP32-S3):** [in progress] (for both Switch 1 and 2)
+- **Wireless (ESP32):** https://youtu.be/YzGyQQOGjl8 (Switch 1 only)
+- **Legacy Wired (Arduino):** https://youtu.be/DFXZzWkOEMs (deprecated. still works, but harder to setup)
 
 
 
@@ -123,4 +124,5 @@ Do not try to profit from these programs. It's just a game; keep the money out o
 For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
 
