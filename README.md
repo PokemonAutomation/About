@@ -64,7 +64,7 @@ We currently have automation for the following games/platforms:
 **Video Tutorials:**
 - **Wired (ESP32-S3):** https://youtu.be/ezBuwk48z8w (recommended for newcomers)
 - **Wireless (ESP32):** https://youtu.be/YzGyQQOGjl8
-- **Legacy Wired (Arduino):** https://youtu.be/DFXZzWkOEMs (deprecated. Works for Switch 1 and 2, but harder to setup)
+- **Legacy Wired (Arduino):** https://youtu.be/DFXZzWkOEMs (deprecated, difficult to setup)
 
 
 
@@ -124,6 +124,7 @@ Do not try to profit from these programs. It's just a game; keep the money out o
 For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
 
 
 
