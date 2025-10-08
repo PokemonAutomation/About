@@ -14,6 +14,8 @@ Certain aspects of Pokémon are very boring and tedious (such as shiny hunting).
 
 With automation, it becomes possible to play 24/7 and simultaneously on multiple devices without wasting too much of your own time. Thus with so much extra game time, it becomes possible to legitimately obtain extremely rare Pokémon that are normally only feasible via hacking.
 
+<img src="Images/ShinyHuntUnattended-Regi-0.jpg" width="800">
+
 ### How does this work?
 
 A computer with video capture and a custom game controller!
@@ -28,9 +30,7 @@ These custom controllers behave just like regular controllers. But rather than h
 
 Since the computer can both see and control the Switch, it can take the place of a human player. But unlike a human, a computer doesn't eat or sleep. And it never gets tired or bored. So you can run it 24/7 for months on end hunting shinies for you!
 
-<img src="Images/ControllerSetup-PicoW-USB-Setup.jpg" width="400"> <img src="Images/ShinyHuntUnattended-Regi-0.jpg" width="400">
-
-<img src="Images/ControllerSetup-PicoW-USB-SetupCloseup-Annotated-Small.jpg" width="800">
+<img src="Images/ControllerSetup-PicoW-USB-Setup.jpg" width="500"> <img src="Images/ControllerSetup-PicoW-USB-SetupCloseup-Annotated-Small.jpg" width="500">
 
 ### Examples:
 
@@ -126,6 +126,7 @@ Do not try to profit from these programs. It's just a game; keep the money out o
 For all other uses, please reach out to the administrators of the Pokémon Automation discord server.
 
 This software is provided "as is" and the developers disclaim all warranties with regard to this software including all implied warranties of merchantability and fitness. In no event shall the developers be liable for any special, direct, indirect, or consequential damages, or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
 
 
 
