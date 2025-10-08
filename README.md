@@ -21,14 +21,16 @@ A computer with video capture and a custom game controller!
 By capturing the video and audio using a capture card, a computer can see (and hear) everything that's happening on the Switch.
 
 To control the Switch, we create our own 3rd party gamepad using a programmable microcontroller:
-- Using an Arduino, we can make a wired pro controller using the USB gamepad protocol.
-- Using an ESP32 microcontroller, we can make a joycon using the Bluetooth gamepad protocol.
+- Using a Raspberry Pi Pico W or an ESP32 microcontroller, we can make a joycon using the Bluetooth gamepad protocol.
+- Using an ESP32-S3, we can make a wired pro controller using the USB gamepad protocol.
 
 These custom controllers behave just like regular controllers. But rather than having buttons and joysticks that are pressed by a human, they are controlled electronically by a computer.
 
 Since the computer can both see and control the Switch, it can take the place of a human player. But unlike a human, a computer doesn't eat or sleep. And it never gets tired or bored. So you can run it 24/7 for months on end hunting shinies for you!
 
-<img src="Images/ControllerSetup-ESP32-WROOM-Setup.jpg" height="300"> <img src="Images/ShinyHuntUnattended-Regi-0.jpg" height="300">
+<img src="Images/ControllerSetup-PicoW-USB-Setup.jpg" width="400"> <img src="Images/ShinyHuntUnattended-Regi-0.jpg" width="400">
+
+<img src="Images/ControllerSetup-PicoW-USB-SetupCloseup-Annotated-Small.jpg" width="800">
 
 ### Examples:
 
